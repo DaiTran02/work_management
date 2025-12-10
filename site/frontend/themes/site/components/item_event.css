@@ -1,0 +1,24 @@
+.item_event_of_history{
+	position: relative;
+	
+}
+.item_event_of_history::before{
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 7px;
+    width: 30px;
+    height: 1px;
+    background-color: #cbcbcb;
+}
+
+.item_event_of_history::after{
+	content: "";
+	position: absolute;
+	top: 5px; /* Căn cho vòng tròn nằm giữa đường */
+	left: -4px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%; /* Tạo vòng tròn */
+	border: 1px solid #cbcbcb;
+}

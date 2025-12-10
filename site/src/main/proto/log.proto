@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.log.processor.proto";
+option java_outer_classname = "PushLogProto";
+
+// The greeting service definition.
+service LogCollector {
+  rpc PushLog(LogEntry) returns (LogAck){}
+  rpc PushLogBatch(LogBatch) returns (LogAck){}
+}
+
+message LogEntry {
+	string service_name = 1;
+	string level        = 2;
+	string message      = 3;
+	int64  timestamp    = 4;
+	map<string, string> metadata = 5;
+}
+
+message LogBatch {
+	repeated LogEntry logs = 1;
+}
+
+message LogAck {
+	bool success = 1;
+	string messsage = 2;
+}
+
+message SteamAck {
+	int32 received_count = 1;
+	string message = 2;
+}

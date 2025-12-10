@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/html/favicon.ico">
+		<title>Tổng hợp tình hình</title>
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="/html/vender/bootstrap-5.0.2-dist/css/bootstrap.min.css">
+		
+		<!-- My CSS -->
+		<link rel="stylesheet" href="/html/css/tong-hop-tinh-hinh.css">
+		
+		<!-- Icons -->
+		<link rel="stylesheet" href="/html/vender/bootstrap-icons-1.9.1/bootstrap-icons.css">
+	</head>
+	<body>
+		<div id="header">
+			<div class="container-fluid">
+				<div style="text-align: center; font-size: 16px; font-weight: bold; color: red; text-transform: uppercase;">Tổng hợp tình hình, kết quả thực hiện nhiệm vụ của Đơn vị</div>
+				<div style="text-align: center; color: blue;">Theo khoản 2 Điều 15 Quy chế Theo dõi, đôn đốc, kiểm tra việc thực hiện nhiệm vụ do....</div>
+			</div>
+		</div>
+
+		<div id="control">
+			<div class="" align="center" style="margin:5px;">
+				<label for="select-year" class="form-label">Năm:</label>
+				<select id="select-year" name="select-year">
+					
+				</select>
+			</div>
+		</div>
+
+		<div id="content">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+						<div id="bieu-do-1">
+							<div style="text-align: center; font-weight: 600; color: #0c679b; margin-bottom: 10px;">Biểu đồ tổng hợp tình hình, kết quả thực hiện nhiệm vụ<br>của Đơn vị giao theo tháng</div>
+							<div>
+								<figure class="highcharts-figure">
+								    <div id="chart-1"></div>
+								</figure>
+							</div>
+						</div>
+
+						<br><br>
+						<div id="bieu-do-2">
+							<div style="text-align: center; font-weight: 600; color: #0c679b; margin-bottom: 10px;">Biểu đồ tổng hợp tình hình, kết quả thực hiện nhiệm vụ<br>của Đơn vị theo trạng thái xử lý</div>
+							<div>
+								<div class="card">
+									<div class="card-body">
+										<h5 class="card-title">NHIỆM VỤ CHƯA HOÀN THÀNH (<span id="cht_count">831</span>)</h5>
+										<div class="row">
+											<div class="col-md-4">
+												<div class="card">
+													<div class="card-body" align="center">
+														<h5 class="card-title text-success"><span id="cht_th_count">0</span></h5>
+														<p class="card-text">Chưa hoàn thành trong hạn (<span id="cht_th_per">0</span>%)</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card">
+													<div class="card-body" align="center">
+														<h5 class="card-title text-danger"><span id="cht_qh_count">0</span></h5>
+														<p class="card-text">Chưa hoàn thành quá hạn (<span id="cht_qh_per">0</span>%)</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card">
+													<div class="card-body" align="center">
+														<h5 class="card-title text-info"><span id="cht_kh_count">0</span></h5>
+														<p class="card-text">Chưa hoàn thành không hạn (<span id="cht_kh_per">0</span>%)</p>
+													</div>
+												</div>
+											</div>
+										</div>
+										
+										<div style="margin-top: 15px;">
+											<figure class="highcharts-figure">
+											    <div id="chart-2"></div>
+											</figure>
+										</div>
+										
+									</div>
+								</div>
+
+								<br>
+								<div class="card">
+									<div class="card-body">
+										<h5 class="card-title">NHIỆM VỤ ĐÃ HOÀN THÀNH (<span id="dht_count">0</span>)</h5>
+										<div class="row">
+											<div class="col-md-4">
+												<div class="card">
+													<div class="card-body" align="center">
+														<h5 class="card-title text-success"><span id="dht_th_count">0</span></h5>
+														<p class="card-text">Đã hoàn thành trong hạn (<span id="dht_th_per">0</span>%)</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card">
+													<div class="card-body" align="center">
+														<h5 class="card-title text-danger"><span id="dht_qh_count">0</span></h5>
+														<p class="card-text">Đã hoàn thành quá hạn (<span id="dht_qh_per">0</span>%)</p>
+													</div>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="card">
+													<div class="card-body" align="center">
+														<h5 class="card-title text-info"><span id="dht_kh_count">0</span></h5>
+														<p class="card-text">Đã hoàn thành không hạn (<span id="dht_kh_per">0</span>%)</p>
+													</div>
+												</div>
+											</div>
+										</div>
+										
+										<div style="margin-top: 15px;">
+											<figure class="highcharts-figure">
+											    <div id="chart-3"></div>
+											</figure>
+										</div>
+										
+									</div>
+								</div>
+
+							</div>
+						</div>
+
+
+
+					</div>
+					<div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+						<div style="text-align: center; color: #0c679b; font-weight: 600;">Nhiệm vụ của Đơn vị giao cho các cơ quan, đơn vị cấp dưới thực hiện</div>
+						<table class="table table-bordered" id="subOrganizationCounts">
+							<tbody>
+								<tr style="text-align: center; font-weight: bold;">
+									<td rowspan="3">STT</td>
+									<td rowspan="3">Tên đơn vị</td>
+									<td colspan="10">Từ ngày <span style="color:red">dd-mm-yyyy</span> đến <span style="color:red">dd-mm-yyyy</span></td>
+								</tr>
+								<tr style="text-align: center; font-weight: bold;">
+									<td rowspan="2" style="background: #eef2f5">Tổng nhiệm vụ</td>
+									<td colspan="3">Đã hoàn thành<br><span style="color:red">(0)</span></td>
+									<td colspan="3">Chưa hoàn thành<br><span style="color:red">(0)<span></span></span></td>
+									<td colspan="3">Chờ xác nhận<br><span style="color:red">(0)<span></span></span></td>
+								</tr>
+								<tr style="text-align: center; font-weight: bold;">
+									<td>Trong hạn</td>
+									<td>Quá hạn</td>
+									<td>Không hạn</td>
+									<td>Trong hạn</td>
+									<td>Quá hạn</td>
+									<td>Không hạn</td>
+								</tr>
+							</tbody>
+						</table>
+						<div align="center" style="margin-bottom: 20px;">
+							<button id="export-data" type="button" class="btn btn-primary"><i class="bi bi-cloud-download"></i> Xuất bảng biểu</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- jQuery -->
+		<script src="/html/js/jquery.min.js"></script>
+		
+		<!-- Bootstrap JavaScript -->
+		<script src="/html/vender/bootstrap-5.0.2-dist/js/bootstrap.min.js"></script>
+
+		<!-- High chart -->
+		<script src="https://code.highcharts.com/highcharts.js"></script>
+		<script src="https://code.highcharts.com/modules/exporting.js"></script>
+		<script src="https://code.highcharts.com/modules/export-data.js"></script>
+		<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+		<script type="text/javascript">
+			function buildChartMonth(months){
+				Highcharts.chart('chart-1', {
+				    chart: {
+				        type: 'column'
+				    },
+				    title: {
+				        align: 'center',
+				        text: ''
+				    },
+				    xAxis: {
+				        categories: months.month
+				    },
+				    yAxis: {
+				        min: 0,
+				        title: {
+				            text: 'Số lượng nhiệm vụ'
+				        },
+				        stackLabels: {
+				            enabled: true,
+				            style: {
+				                fontWeight: 'bold',
+				                color: (
+				                    Highcharts.defaultOptions.title.style &&
+				                    Highcharts.defaultOptions.title.style.color
+				                ) || 'gray',
+				                textOutline: 'none'
+				            }
+				        }
+				    },
+				    tooltip: {
+				        headerFormat: '<b>{point.x}</b><br/>',
+				        pointFormat: '{series.name}: {point.y}<br/>Tổng: {point.stackTotal}'
+				    },
+				    plotOptions: {
+				        column: {
+				            stacking: 'normal',
+				            dataLabels: {
+				                enabled: true
+				            }
+				        }
+				    },
+				    series: [{
+				        name: 'Đã hoàn thành',
+				        data: months.dht
+				    }, {
+				        name: 'Chưa hoàn thành',
+				        data: months.cht
+				    }],
+				    credits: {
+					    enabled: false
+					},
+				});
+			}
+
+			function buildChartCount(data){
+				var cht_th=0.00;
+				if(data.cht_th>0){
+					cht_th=((data.cht_th*100.0)/data.cht).toFixed(2);
+				}
+
+				var cht_qh=0.00;
+				if(data.cht_qh>0){
+					cht_qh=((data.cht_qh*100.0)/data.cht).toFixed(2);
+				}
+
+				var cht_kh=0.00;
+				if(data.cht_kh>0){
+					cht_kh=(100.00-cht_th-cht_qh).toFixed(2);
+				}
+
+				document.getElementById("cht_count").textContent=data.cht;
+				document.getElementById("cht_th_count").textContent=data.cht_th;
+				document.getElementById("cht_th_per").textContent=cht_th;
+				document.getElementById("cht_qh_count").textContent=data.cht_qh;
+				document.getElementById("cht_qh_per").textContent=cht_qh;
+				document.getElementById("cht_kh_count").textContent=data.cht_kh;
+				document.getElementById("cht_kh_per").textContent=cht_kh;
+
+				Highcharts.chart('chart-2', {
+				    chart: {
+				        type: 'column'
+				    },
+				    colors: ['#198754', '#dc3545', '#0dcaf0'],
+				    title: {
+				        align: 'center',
+				        text: ''
+				    },
+				    accessibility: {
+				        announceNewData: {
+				            enabled: true
+				        }
+				    },
+				    xAxis: {
+				        type: 'category'
+				    },
+				    yAxis: {
+				        title: {
+				            text: 'Số nhiệm vụ chỉ đạo (%)'
+				        }
+
+				    },
+				    legend: {
+				        enabled: false
+				    },
+				    plotOptions: {
+				        series: {
+				            borderWidth: 0,
+				            dataLabels: {
+				                enabled: true,
+				                format: '{point.y:.1f}%'
+				            }
+				        }
+				    },
+
+				    tooltip: {
+				        headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+				        pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+				    },
+
+				    series: [
+				        {
+				            name: "Browsers",
+				            colorByPoint: true,
+				            data: [
+				                {
+				                    name: "Chưa hoàn thành trong hạn",
+				                    y: parseFloat(cht_th),
+				                },
+				                {
+				                    name: "Chưa hoàn thành quá hạn",
+				                    y: parseFloat(cht_qh),
+				                },
+				                {
+				                    name: "Chưa hoàn thành không hạn",
+				                    y: parseFloat(cht_kh),
+				                }
+				            ]
+				        }
+				    ],
+				    credits: {
+					    enabled: false
+					},
+				});
+			
+
+				var dht_th=0.00;
+				if(data.dht_th>0){
+					dht_th=((data.dht_th*100.0)/data.dht).toFixed(2);
+				}
+
+				var dht_qh=0.00;
+				if(data.dht_qh>0){
+					dht_qh=((data.dht_qh*100.0)/data.dht).toFixed(2);
+				}
+
+				var dht_kh=0.00;
+				if(data.dht_kh>0){
+					dht_kh=(100.00-dht_th-dht_qh).toFixed(2);
+				}
+
+				document.getElementById("dht_count").textContent=data.dht;
+				document.getElementById("dht_th_count").textContent=data.dht_th;
+				document.getElementById("dht_th_per").textContent=dht_th;
+				document.getElementById("dht_qh_count").textContent=data.dht_qh;
+				document.getElementById("dht_qh_per").textContent=dht_qh;
+				document.getElementById("dht_kh_count").textContent=data.dht_kh;
+				document.getElementById("dht_kh_per").textContent=dht_kh;
+
+				Highcharts.chart('chart-3', {
+				    chart: {
+				        type: 'column'
+				    },
+				    colors: ['#198754', '#dc3545', '#0dcaf0'],
+				    title: {
+				        align: 'center',
+				        text: ''
+				    },
+				    accessibility: {
+				        announceNewData: {
+				            enabled: true
+				        }
+				    },
+				    xAxis: {
+				        type: 'category'
+				    },
+				    yAxis: {
+				        title: {
+				            text: 'Số nhiệm vụ chỉ đạo (%)'
+				        }
+
+				    },
+				    legend: {
+				        enabled: false
+				    },
+				    plotOptions: {
+				        series: {
+				            borderWidth: 0,
+				            dataLabels: {
+				                enabled: true,
+				                format: '{point.y:.1f}%'
+				            }
+				        }
+				    },
+
+				    tooltip: {
+				        headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+				        pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+				    },
+
+				    series: [
+				        {
+				            name: "Browsers",
+				            colorByPoint: true,
+				            data: [
+				                {
+				                    name: "Đã hoàn thành trong hạn",
+				                    y: parseFloat(dht_th),
+				                },
+				                {
+				                    name: "Đã hoàn thành quá hạn",
+				                    y: parseFloat(dht_qh),
+				                },
+				                {
+				                    name: "Đã hoàn thành không hạn",
+				                    y: parseFloat(dht_kh),
+				                }
+				            ]
+				        }
+				    ],
+				    credits: {
+					    enabled: false
+					},
+				});
+			}
+
+			function buildTableSubOrganization(data){
+				var html="";
+					html+="<tbody>";
+					html+="<tr style='text-align: center; font-weight: bold;'>";
+						html+="<td rowspan='3'>STT</td>";
+						html+="<td rowspan='3'>Tên đơn vị</td>";
+						html+="<td colspan='10'>Từ ngày <span style='color:red'>"+data.fromDate+"</span> đến <span style='color:red'>"+data.toDate+"</span></td>";
+					html+="</tr>";
+					html+="<tr style='text-align: center; font-weight: bold;'>";
+						html+="<td rowspan='2' style='background: #eef2f5'>Tổng nhiệm vụ</td>";
+						html+="<td colspan='3'>Đã hoàn thành<br><span style='color:red'>("+data.counts.dht+")</span></td>";
+						html+="<td colspan='3'>Chưa hoàn thành<br><span style='color:red'>("+data.counts.cht+")<span></span></span></td>";
+						html+="<td colspan='3'>Chờ xác nhận<br><span style='color:red'>("+data.counts.cxn+")<span></span></span></td>";
+					html+="</tr>";
+					html+="<tr style='text-align: center; font-weight: bold;'>";
+						html+="<td>Trong hạn</td>";
+						html+="<td>Quá hạn</td>";
+						html+="<td>Không hạn</td>";
+						html+="<td>Trong hạn</td>";
+						html+="<td>Quá hạn</td>";
+						html+="<td>Không hạn</td>";
+						html+="<td>Trong hạn</td>";
+						html+="<td>Quá hạn</td>";
+						html+="<td>Không hạn</td>";
+					html+="</tr>";
+					
+					var stt=1;
+					data.subOrganizationCounts.forEach(item => {
+				        html+="<tr style='text-align: center;'>";
+							html+="<td>"+stt+"</td>";
+							html+="<td style='text-align: left'>"+item.organizationName+"</td>";
+							html+="<td style='background: #eef2f5'>"+item.total+"</td>";
+							html+="<td>"+item.dht_th+"</td>";
+							html+="<td>"+item.dht_qh+"</td>";
+							html+="<td>"+item.dht_kh+"</td>";
+							html+="<td>"+item.cht_th+"</td>";
+							html+="<td>"+item.cht_qh+"</td>";
+							html+="<td>"+item.cht_kh+"</td>";
+							html+="<td>"+item.cxn_th+"</td>";
+							html+="<td>"+item.cxn_qh+"</td>";
+							html+="<td>"+item.cxn_kh+"</td>";
+						html+="</tr>";
+						stt++;
+				    });
+					
+					var sum=data.counts;
+					html+="<tr style='text-align: center; color: red; font-weight: bold;'>";
+						html+="<td></td>";
+						html+="<td style='text-align: center'>Tổng</td>";
+						html+="<td style='background: #eef2f5'>"+sum.total+"</td>";
+						html+="<td>"+sum.dht_th+"</td>";
+						html+="<td>"+sum.dht_qh+"</td>";
+						html+="<td>"+sum.dht_kh+"</td>";
+						html+="<td>"+sum.cht_th+"</td>";
+						html+="<td>"+sum.cht_qh+"</td>";
+						html+="<td>"+sum.cht_kh+"</td>";
+						html+="<td>"+sum.cxn_th+"</td>";
+						html+="<td>"+sum.cxn_qh+"</td>";
+						html+="<td>"+sum.cxn_kh+"</td>";
+					html+="</tr>";
+				
+				html+="</tbody>";
+
+				document.getElementById('subOrganizationCounts').innerHTML=html;
+			}
+
+			function loadData(year){
+				var orgId="635c187984b14102c96d2b28";
+				const queryString = window.location.search;
+				const urlParams = new URLSearchParams(queryString);
+				if(urlParams.has("organizationId")){
+					orgId = urlParams.get("organizationId");
+				}
+				
+				var domain=window.location.origin;
+				var settings = {
+					"url": domain+"/api-public/report/tasks/list-tasks-owner?organizationId="+orgId+"&export=false&year="+year,
+					"method": "GET",
+					"timeout": 0,
+					"headers": {
+						"Content-Type": "application/json"
+					},
+				};
+
+				$.ajax(settings).done(function (response) {
+					buildChartMonth(response.result.months);
+					buildChartCount(response.result.counts);
+					buildTableSubOrganization(response.result);
+				});
+			}
+
+			function exportData(year){
+				var orgId="635c187984b14102c96d2b28";
+				const queryString = window.location.search;
+				const urlParams = new URLSearchParams(queryString);
+				if(urlParams.has("organizationId")){
+					orgId = urlParams.get("organizationId");
+				}
+				
+				var domain=window.location.origin;
+				var settings = {
+					"url": domain+"/api-public/report/tasks/list-tasks-owner?organizationId="+orgId+"&export=true&year="+year,
+					"method": "GET",
+					"timeout": 0,
+					"headers": {
+						"Content-Type": "application/json"
+					},
+				};
+
+				$.ajax(settings).done(function (response) {
+					window.location.assign(domain+response.result.path);
+				});
+			}
+			
+			$(document).ready(()=>{
+				var currentTime = new Date();
+				var currentYear=currentTime.getFullYear();
+				
+				var selects="";
+				for(var i=currentYear; i>=2020; i--){
+					selects+="<option>"+i+"</option>";
+				}
+				document.getElementById("select-year").innerHTML=selects;
+				
+				loadData(currentYear);
+			});  
+
+			$("#select-year").change(function(){
+				var year=$(this).val();
+				loadData(year);
+			});
+
+			$("#export-data").click(function(){
+				var year=$("#select-year").val();
+				exportData(year);
+			});
+		</script>
+	</body>
+</html>

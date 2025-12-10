@@ -1,0 +1,44 @@
+.nav_org{
+	top: 49px;
+    width: 85%;
+    position: fixed;
+    z-index: 2;
+    background: white;
+}
+
+.user__devision-tabs vaadin-tab{
+	width: 50%;
+}
+
+.user__devision-tabs vaadin-tab:first-child{
+	border-right: 1px solid #d790902e;
+}
+
+#table_question{
+	margin-top: 18px;
+}
+
+#table_question table{
+	font-family: Arial, Helvetica, sans-serif;
+  	border-collapse: collapse;
+  	width: 100%;
+}
+
+#table_question td, #table_question th{
+	border: 1px solid #ddd;
+  	padding: 8px;
+}
+
+#table_question th{
+	padding-top: 12px;
+  	padding-bottom: 12px;
+  	text-align: left;
+  	background-color: #476ba3;
+  	color: white;
+}
+
+#table_question th.header_group{
+	background-color: white;
+	color: black;
+	text-align: center;
+}

@@ -1,0 +1,9 @@
+/*
+ * This file has been created by the Vaadin Theme Editor. Please note that
+ * manual changes to individual CSS properties may be overwritten by the theme editor.
+ */
+vaadin-vertical-layout {
+  border-color:rgba(23,41,64,0.94);
+  border-width:0px;
+  padding:var(--lumo-space-xs);
+}

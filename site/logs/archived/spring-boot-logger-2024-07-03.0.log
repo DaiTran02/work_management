@@ -1,0 +1,359 @@
+2024-07-03 11:28:16,466 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.1.Final
+2024-07-03 11:28:16,500 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 21.0.2 with PID 6812 (C:\Users\PC\git\tdnv-hanoi\site\target\classes started by PC in C:\Users\PC\git\tdnv-hanoi\site)
+2024-07-03 11:28:16,501 INFO o.s.b.SpringApplication [restartedMain] The following 1 profile is active: "khue"
+2024-07-03 11:28:16,545 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-07-03 11:28:17,671 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port 8081 (http)
+2024-07-03 11:28:17,679 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2024-07-03 11:28:17,681 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2024-07-03 11:28:17,681 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-07-03 11:28:17,743 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-07-03 11:28:17,744 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1199 ms
+2024-07-03 11:28:17,772 DEBUG o.s.b.w.s.ServletContextInitializerBeans [restartedMain] Mapping filters: springSecurityFilterChain urls=[/*] order=-100, characterEncodingFilter urls=[/*] order=-2147483648, formContentFilter urls=[/*] order=-9900, requestContextFilter urls=[/*] order=-105
+2024-07-03 11:28:17,773 DEBUG o.s.b.w.s.ServletContextInitializerBeans [restartedMain] Mapping servlets: dispatcherServlet urls=[/], springServlet urls=[/vaadinServlet/*]
+2024-07-03 11:28:18,734 INFO c.v.f.s.VaadinServletContextInitializer$DevModeServletContextListener [restartedMain] Search for subclasses and classes with annotations took 653 ms
+2024-07-03 11:28:19,202 INFO c.v.b.d.s.DevModeInitializer [restartedMain] Starting dev-mode updaters in C:\Users\PC\git\tdnv-hanoi\site folder.
+2024-07-03 11:28:19,253 INFO c.v.f.s.f.s.FullDependenciesScanner [restartedMain] Visited 200 classes. Took 33 ms.
+2024-07-03 11:28:19,255 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] Checking if a development mode bundle build is needed
+2024-07-03 11:28:19,544 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] Frontend import ./generated/jar-resources/bs-layout/bs-row.js is missing from the bundle
+2024-07-03 11:28:19,544 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] Frontend import ./generated/jar-resources/bs-layout/bs-column.js is missing from the bundle
+2024-07-03 11:28:19,544 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] Frontend import ./generated/jar-resources/bs-layout/bs-layout.js is missing from the bundle
+2024-07-03 11:28:19,546 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] A development mode bundle build is needed
+2024-07-03 11:28:19,593 INFO c.v.f.s.f.TaskRunNpmInstall [ForkJoinPool.commonPool-worker-2] Skipping `npm install` because the frontend packages are already installed in the folder 'C:\Users\PC\git\tdnv-hanoi\site\node_modules' and the hash in the file 'C:\Users\PC\git\tdnv-hanoi\site\node_modules\.vaadin\vaadin.json' is the same as in 'package.json'
+2024-07-03 11:28:19,593 INFO c.v.f.s.f.TaskCopyFrontendFiles [ForkJoinPool.commonPool-worker-2] Copying frontend resources from jar files ...
+2024-07-03 11:28:19,790 INFO c.v.f.s.f.TaskCopyFrontendFiles [ForkJoinPool.commonPool-worker-2] Visited 24 resources. Took 196 ms.
+2024-07-03 11:28:19,889 DEBUG o.s.w.s.h.AbstractHandlerMethodMapping [restartedMain] 2 mappings in 'requestMappingHandlerMapping'
+2024-07-03 11:28:19,946 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping [restartedMain] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-07-03 11:28:19,950 INFO o.s.s.w.DefaultSecurityFilterChain [restartedMain] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@45a0cf7a, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@433db1a, org.springframework.security.web.context.SecurityContextHolderFilter@774ced82, org.springframework.security.web.header.HeaderWriterFilter@128cdf3b, org.springframework.web.filter.CorsFilter@6b89a034, org.springframework.security.web.csrf.CsrfFilter@32e324f9, org.springframework.security.web.authentication.logout.LogoutFilter@4187bbc5, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@56c40098, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@47705b96, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2d6e4477, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ed0385c, org.springframework.security.web.access.ExceptionTranslationFilter@72416e55, org.springframework.security.web.access.intercept.AuthorizationFilter@47a6ecae]
+2024-07-03 11:28:20,006 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter [restartedMain] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-07-03 11:28:20,012 INFO c.v.f.s.f.TaskRunDevBundleBuild [ForkJoinPool.commonPool-worker-2] Creating a new development mode bundle. This can take a while but will only run when the project setup is changed, addons are added or frontend files are modified
+2024-07-03 11:28:20,040 DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [restartedMain] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-07-03 11:28:20,225 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2024-07-03 11:28:20,323 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2024-07-03 11:28:20,346 INFO c.v.f.s.DefaultDeploymentConfiguration [restartedMain] 
+Vaadin is running in DEVELOPMENT mode - do not use for production deployments.
+2024-07-03 11:28:20,400 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port 8081 (http) with context path ''
+2024-07-03 11:28:20,408 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 4.37 seconds (process running for 5.217)
+2024-07-03 11:28:22,180 INFO o.a.j.l.DirectJDKLog [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-03 11:28:22,180 INFO o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet'
+2024-07-03 11:28:22,181 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected StandardServletMultipartResolver
+2024-07-03 11:28:22,181 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected AcceptHeaderLocaleResolver
+2024-07-03 11:28:22,181 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected FixedThemeResolver
+2024-07-03 11:28:22,182 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@55e97b0c
+2024-07-03 11:28:22,182 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected org.springframework.web.servlet.support.SessionFlashMapManager@34a01b01
+2024-07-03 11:28:22,182 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] enableLoggingRequestDetails='true': request parameters and headers will be shown which may lead to unsafe logging of potentially sensitive data
+2024-07-03 11:28:22,182 INFO o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed initialization in 1 ms
+2024-07-03 11:28:22,194 WARN o.s.w.s.h.HandlerMappingIntrospector$CacheResultLogHelper [http-nio-8081-exec-1] Cache miss for REQUEST dispatch to '/' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.
+2024-07-03 11:28:22,232 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:22,252 INFO c.v.f.s.SpringInstantiator [http-nio-8081-exec-2] The number of beans implementing 'I18NProvider' is 0. Cannot use Spring beans for I18N, falling back to the default behavior
+2024-07-03 11:28:22,257 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:22,530 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/favicon.ico", parameters={}
+2024-07-03 11:28:22,536 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:22,722 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:22,726 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:22,941 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:22,943 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:23,160 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:23,162 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:23,370 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:23,373 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:23,592 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:23,595 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:23,801 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:23,804 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:24,016 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:24,019 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:24,228 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:24,231 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:24,447 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:24,449 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:24,659 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:24,662 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:24,891 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:24,895 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:25,482 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:25,485 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:26,477 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:26,479 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:26,685 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:26,688 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:26,906 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:26,908 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:27,127 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:27,129 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:27,346 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:27,350 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:27,565 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:27,567 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:27,772 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:27,775 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:27,989 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:27,991 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:28,197 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:28,199 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:28,405 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:28,407 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:28,624 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:28,626 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:28,831 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:28,834 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:29,039 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:29,041 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:29,247 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:29,249 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:29,455 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:29,457 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:29,673 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:29,675 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:29,893 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:29,895 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:30,101 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:30,103 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:30,309 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:30,311 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:30,531 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:30,533 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:30,750 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:30,752 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:30,970 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:30,972 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:31,190 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:31,192 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:31,410 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:31,412 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:31,618 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:31,620 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:31,825 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:31,827 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:32,032 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:32,034 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:32,250 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:32,253 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:32,472 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:32,478 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:32,690 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:32,692 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:32,896 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:32,898 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:33,117 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:33,119 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:33,338 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:33,340 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:33,557 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:33,559 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:33,778 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:33,780 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:33,985 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:33,987 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:34,190 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:34,192 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:34,409 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:34,411 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:34,619 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:34,621 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:34,839 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:34,841 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:35,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:35,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:35,265 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:35,267 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:35,472 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:35,474 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:35,681 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:35,683 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:35,899 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:35,901 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:36,117 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:36,119 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:36,325 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:36,327 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:36,533 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:36,535 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:36,753 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:36,755 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:36,972 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:36,974 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:37,179 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:37,181 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:37,400 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:37,402 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:37,607 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:37,610 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:37,816 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:37,818 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:38,034 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:38,036 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:38,243 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:38,245 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:38,451 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:38,453 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:38,658 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:38,660 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:38,875 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:38,877 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:39,095 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:39,097 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:39,303 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:39,305 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:39,511 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:39,513 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:39,719 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:39,721 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:39,926 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:39,928 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:40,133 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:40,135 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:40,341 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:40,343 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:40,549 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:40,551 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:40,768 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:40,770 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:40,987 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:40,989 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:41,202 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:41,204 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:41,409 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:41,411 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:41,616 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:41,618 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:41,833 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:41,835 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:42,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:42,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:42,270 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:42,272 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:42,476 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:42,478 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:42,693 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:42,698 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:42,906 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:42,908 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:43,125 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:43,127 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:43,332 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:43,333 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:43,540 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:43,541 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:43,746 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/login", parameters={}
+2024-07-03 11:28:43,748 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:43,953 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:28:43,955 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:28:44,160 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/login", parameters={}
+2024-07-03 11:28:44,162 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:44,378 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/login", parameters={}
+2024-07-03 11:28:44,380 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:44,587 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-07-03 11:28:44,589 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:44,598 INFO c.v.f.s.f.TaskRunDevBundleBuild [ForkJoinPool.commonPool-worker-2] Development frontend bundle built
+2024-07-03 11:28:44,795 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/login", parameters={}
+2024-07-03 11:28:44,796 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:45,003 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-07-03 11:28:45,004 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:45,211 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/login", parameters={}
+2024-07-03 11:28:45,212 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:45,242 WARN c.v.f.s.f.TaskRunDevBundleBuild [ForkJoinPool.commonPool-worker-2] Failed to create a README file in target/dev-bundle
+2024-07-03 11:28:45,428 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/login", parameters={}
+2024-07-03 11:28:45,429 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:45,435 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/login", parameters={}
+2024-07-03 11:28:45,553 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:45,567 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/VAADIN/build/indexhtml-IvIu_2Jk.js", parameters={}
+2024-07-03 11:28:45,586 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:45,802 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/copilot-log-plugin-7xE84pLq-yrLcCofs.js", parameters={}
+2024-07-03 11:28:45,803 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/VAADIN/build/base-panel-f4d2zbj_-IC2lhW7b.js", parameters={}
+2024-07-03 11:28:45,803 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/copilot-info-plugin-apq7fWiV-4HyDdTSs.js", parameters={}
+2024-07-03 11:28:45,804 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/VAADIN/build/copilot-database-plugin-7-YM52bw-txjbSu1C.js", parameters={}
+2024-07-03 11:28:45,804 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/copilot-features-plugin-yghm7CDp-hJZ9mGvm.js", parameters={}
+2024-07-03 11:28:45,805 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/VAADIN/build/copilot-outline-karbHoTY-5qoQK82_.js", parameters={}
+2024-07-03 11:28:45,808 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:45,810 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:45,811 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/VAADIN/build/copilot-theme-editor-plugin-aECZ1mTl-lNCUXnkp.js", parameters={}
+2024-07-03 11:28:45,811 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:45,811 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:45,811 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:45,814 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:45,815 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/?v-r=init&location=login&query=", parameters={v-r:[init], location:[login], query:[]}
+2024-07-03 11:28:45,819 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-07-03 11:28:45,870 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/favicon.ico", parameters={}
+2024-07-03 11:28:45,898 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:28:45,899 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 404 NOT_FOUND
+2024-07-03 11:28:45,902 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/FlowBootstrap--451WYy8.js", parameters={}
+2024-07-03 11:28:45,908 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:45,913 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/generated-flow-imports-WzlSuQ6Q.js", parameters={}
+2024-07-03 11:28:45,928 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-07-03 11:28:46,101 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/VAADIN/build/network-v4vrF3B2.js", parameters={}
+2024-07-03 11:28:46,101 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/VAADIN/build/fetch_stream-J_IyPn8B.js", parameters={}
+2024-07-03 11:28:46,101 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/network_utils-niKu1Ct0.js", parameters={}
+2024-07-03 11:28:46,107 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:28:46,107 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:28:46,107 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:28:46,184 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/FlowClient-urjGN_YE.js", parameters={}
+2024-07-03 11:28:46,190 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-07-03 11:28:46,269 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=0", parameters={v-r:[uidl], v-uiId:[0]}
+2024-07-03 11:28:46,918 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:28:46,960 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=0", parameters={v-r:[uidl], v-uiId:[0]}
+2024-07-03 11:28:46,960 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/images/logo_normal.png", parameters={}
+2024-07-03 11:28:46,963 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/line-awesome/svg/sync-solid.svg", parameters={}
+2024-07-03 11:28:46,963 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:28:46,966 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 304 NOT_MODIFIED
+2024-07-03 11:28:46,994 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:01,142 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=0", parameters={v-r:[uidl], v-uiId:[0]}
+2024-07-03 11:29:01,181 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP POST http://192.168.10.9:8090/api/site/users/login
+2024-07-03 11:29:01,217 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-07-03 11:29:01,218 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [{"username":"daikaka","password":"Abc@12345"}] as "application/json"
+2024-07-03 11:29:12,776 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/login", parameters={}
+2024-07-03 11:29:22,280 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-07-03 11:29:22,290 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:29:22,292 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=0", parameters={v-r:[uidl], v-uiId:[0]}
+2024-07-03 11:29:22,294 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:29:22,295 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=0", parameters={v-r:[uidl], v-uiId:[0]}
+2024-07-03 11:29:22,298 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:29:22,302 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/indexhtml-IvIu_2Jk.js", parameters={}
+2024-07-03 11:29:22,304 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,480 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/VAADIN/build/copilot-log-plugin-7xE84pLq-yrLcCofs.js", parameters={}
+2024-07-03 11:29:22,480 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/base-panel-f4d2zbj_-IC2lhW7b.js", parameters={}
+2024-07-03 11:29:22,481 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/VAADIN/build/copilot-info-plugin-apq7fWiV-4HyDdTSs.js", parameters={}
+2024-07-03 11:29:22,482 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,483 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,483 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/VAADIN/build/copilot-outline-karbHoTY-5qoQK82_.js", parameters={}
+2024-07-03 11:29:22,483 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,484 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/VAADIN/build/copilot-features-plugin-yghm7CDp-hJZ9mGvm.js", parameters={}
+2024-07-03 11:29:22,485 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/VAADIN/build/copilot-database-plugin-7-YM52bw-txjbSu1C.js", parameters={}
+2024-07-03 11:29:22,485 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/?v-r=init&location=login&query=", parameters={v-r:[init], location:[login], query:[]}
+2024-07-03 11:29:22,485 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/VAADIN/build/copilot-theme-editor-plugin-aECZ1mTl-lNCUXnkp.js", parameters={}
+2024-07-03 11:29:22,486 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,486 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,486 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,487 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,488 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:29:22,518 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/VAADIN/build/FlowBootstrap--451WYy8.js", parameters={}
+2024-07-03 11:29:22,520 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,523 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/VAADIN/build/generated-flow-imports-WzlSuQ6Q.js", parameters={}
+2024-07-03 11:29:22,524 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,689 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/VAADIN/build/network_utils-niKu1Ct0.js", parameters={}
+2024-07-03 11:29:22,689 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/VAADIN/build/fetch_stream-J_IyPn8B.js", parameters={}
+2024-07-03 11:29:22,689 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/network-v4vrF3B2.js", parameters={}
+2024-07-03 11:29:22,691 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,691 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,691 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,733 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/VAADIN/build/FlowClient-urjGN_YE.js", parameters={}
+2024-07-03 11:29:22,735 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,811 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-07-03 11:29:22,830 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-07-03 11:29:22,837 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/images/logo_normal.png", parameters={}
+2024-07-03 11:29:22,839 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 304 NOT_MODIFIED
+2024-07-03 11:29:22,862 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-07-03 11:29:22,863 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:29:22,864 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/line-awesome/svg/sync-solid.svg", parameters={}
+2024-07-03 11:29:22,872 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 304 NOT_MODIFIED
+2024-07-03 11:34:22,808 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-07-03 11:34:22,810 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-07-03 11:39:22,831 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-07-03 11:39:22,834 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-07-03 11:44:22,852 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-07-03 11:44:22,855 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-07-03 11:49:22,863 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-07-03 11:49:22,865 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-07-03 11:54:22,876 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-07-03 11:54:22,879 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-07-03 11:55:50,487 INFO o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(37)-127.0.0.1] Application shutdown requested.
+2024-07-03 11:55:50,492 INFO o.a.j.l.DirectJDKLog [RMI TCP Connection(37)-127.0.0.1] Stopping ProtocolHandler ["http-nio-8081"]

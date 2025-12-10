@@ -1,0 +1,21 @@
+.table_report_container{
+	width: 100%;
+	font-family: arial, sans-serif;
+  	border-collapse: collapse;
+}
+
+.table_report_container td,th{
+	border: 1px solid #dddddd;
+  	text-align: left;
+  	padding: 8px;
+}
+
+.act{
+	color: #0b9d11;
+    font-weight: 500;
+}
+
+.not_act{
+	color: #9d0b0b;
+    font-weight: 500;
+}

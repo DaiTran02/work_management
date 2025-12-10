@@ -1,0 +1,17 @@
+#previous-step-button{
+	margin-right: auto;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+#next-step-button{
+	margin-right: 5px;
+    margin-left: auto;
+    margin-bottom: 5px;
+}
+
+#close-button-footer{
+	margin-right: 5px;
+    margin-left: auto;
+    margin-bottom: 5px;
+}

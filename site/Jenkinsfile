@@ -1,0 +1,89 @@
+pipeline {
+    agent any
+
+    environment {
+        DEPLOY_DIR = "/opt/dev/apps/webapps/tdnv/ui-site"
+        JAVA_HOME = '/usr/lib/jvm/jdk-21.0.7-oracle-x64'
+        PATH = "${JAVA_HOME}/bin:${env.PATH}"
+    }
+    
+    tools {
+        maven 'Maven 3.8.10'
+        jdk 'JDK 21'
+    }
+    
+    stages {
+        stage('Check Java Version') {
+            steps {
+                sh 'java -version'
+                sh 'mvn -version'
+            }
+        }
+
+        stage('Add GitHub to known_hosts') {
+            steps {
+                sh 'mkdir -p ~/.ssh && ssh-keyscan github.com >> ~/.ssh/known_hosts'
+            }
+        }
+
+        stage('Checkout') {
+            steps {
+                git url: 'git@github.com:DaiTran02/tdnv-hanoi.git', credentialsId: 'ssh', branch: 'main'
+            }
+        }
+        
+        stage('Clean Maven Cache') {
+		    steps {
+		        sh 'rm -rf ~/.m2/repository/org/apache/maven/plugins/maven-compiler-plugin'
+		    }
+		}
+
+        stage('Build with Maven') {
+            steps {
+                dir('site') {
+                    sh 'mvn clean package -DskipTests'
+                }
+            }
+        }
+        
+        
+        
+        
+        stage('Deploy and Restart Service') {
+            steps {
+                script {
+                    def artifactId = "site"
+                    def version = "1.0-SNAPSHOT"
+                    
+                    def jarRelativePath = "site/target/${artifactId}-${version}.jar"
+                    
+                    def absoluteJarPath = "${env.WORKSPACE}/${jarRelativePath}"
+
+                    echo "Đường dẫn file JAR build được: ${absoluteJarPath}"
+
+                    if (!fileExists(absoluteJarPath)) {
+                        error("LỖI: Không tìm thấy file JAR tại ${absoluteJarPath}. Kiểm tra lại cấu hình build, artifactId, version và đường dẫn.")
+                    }
+
+                    sh "sudo /opt/dev/apps/webapps/tdnv/ui-site/deploy_site.sh ${absoluteJarPath}"
+                    
+                    echo "Script deploy đã được gọi."
+                }
+            }
+		}
+    }
+    
+    
+     post {
+        always {
+            echo 'Pipeline finished.'
+        }
+        success {
+            echo 'Pipeline successfully completed.'
+        }
+        failure {
+            echo 'Pipeline failed.'
+        }
+    }
+    
+}

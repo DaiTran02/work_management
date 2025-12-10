@@ -1,0 +1,18 @@
+vaadin-grid::part(header-cell).docform__grid{
+	color: #FFFFFF;
+	background-color: #73aee9;
+}
+
+vaadin-grid.styling::part(low-rating) {
+    background-color: hsl(3deg 27.15% 75.14% / 18%);
+}
+
+/*for task*/
+
+vaadin-grid::part(cell).grid-task{
+	overflow: hidden;
+}
+
+vaadin-grid::part(row):hover.grid-task{
+	background: #ebf6ff6b;
+}

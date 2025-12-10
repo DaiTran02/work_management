@@ -1,0 +1,14 @@
+.loginView_loginForm--layout::part(brand) {
+	background-color:#13396a;
+	color: #FFFFFF;
+}
+
+vaadin-login-overlay-wrapper::part(brand){
+	min-height: 0;
+	height: 150px;
+	
+}
+
+vaadin-login-form-wrapper::part(footer){
+	margin: auto;
+}

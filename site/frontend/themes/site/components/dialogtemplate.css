@@ -1,0 +1,27 @@
+vaadin-dialog-overlay::part(header) {
+	background-color: #38598b;
+	color: white;
+	height: 20px;
+}
+
+vaadin-dialog-overlay::part(content){
+	padding-top: 1.25rem;
+}
+
+.backgroud_new vaadin-dialog-overlay::part(content){
+	background: #b6c2cd30;
+	
+}
+
+@media only screen and (max-width : 768px) {
+vaadin-dialog-overlay::part(content){
+	padding: 5px;
+	width: 100%;
+	height: 100%;
+}
+}
+
+
+h2{
+	color: white;
+}

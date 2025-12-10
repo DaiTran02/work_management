@@ -1,0 +1,4 @@
+vaadin-confirm-dialog-overlay::part(footer){
+	border-top: 1px solid #cfd9ff;
+	background: none;
+}

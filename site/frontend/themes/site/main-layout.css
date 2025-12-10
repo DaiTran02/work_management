@@ -1,0 +1,97 @@
+vaadin-scroller[slot="drawer"] {
+  padding: var(--lumo-space-s);
+}
+
+vaadin-side-nav-item vaadin-icon {
+  padding: 0;
+}
+
+[slot="drawer"]:is(header, footer) {
+  display: flex;
+  align-items: center;
+  gap: var(--lumo-space-s);
+  padding: var(--lumo-space-s) var(--lumo-space-m);
+  min-height: var(--lumo-size-xl);
+  box-sizing: border-box;
+}
+
+[slot="drawer"]:is(header, footer):is(:empty) {
+  display: none;
+}
+vaadin-app-layout::part(navbar) {
+	background-color: #5585b5;
+	color: #bbe4e9;
+}
+
+vaadin-drawer-toggle{
+	border: 1px solid #68d9e70a;
+	
+}
+
+vaadin-drawer-toggle::part(icon){
+	color: #bbe4e9;
+}
+
+
+vaadin-button.btn_bell{
+	margin-left: auto;
+	cursor: pointer;
+	color: whitesmoke;
+}
+
+vaadin-button.btn_move-org{
+	cursor: pointer;
+	color: whitesmoke;
+}
+
+vaadin-button.btn_help{
+	cursor: pointer;
+	color: whitesmoke;
+	background: #ffffff0a;
+	border-radius: 10px;
+}
+
+/* Css nav */
+
+vaadin-side-nav{
+	width: 100%;
+}
+
+vaadin-side-nav > [slot="label"]{
+	width: 100%;
+	/*padding-bottom: 10px;*/
+}
+
+
+vaadin-side-nav-item{
+	margin-left: 18px;
+}
+
+/*
+vaadin-side-nav-item::part(content){
+	background-color: hsl(0deg 0% 100% / 13%);
+}
+
+vaadin-side-nav-item:active{
+	color: hsl(215.73deg 83.99% 49.22%);
+	box-shadow: rgba(0, 0, 0, 0.133) 0px 1.6px 3.6px 0px, rgba(0, 0, 0, 0.11) 0px 0.3px 0.9px 0px;
+}
+
+vaadin-side-nav-item[current]{
+	color: hsl(215.73deg 83.99% 49.22%);
+	box-shadow: rgba(0, 0, 0, 0.133) 0px 1.6px 3.6px 0px, rgba(0, 0, 0, 0.11) 0px 0.3px 0.9px 0px;
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+

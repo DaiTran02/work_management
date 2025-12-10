@@ -1,0 +1,85 @@
+.image-gallery-view ol {
+  grid-template-columns: repeat(auto-fill, minmax(256px, 1fr));
+}
+
+.image-gallery-view li {
+  transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition-property: background-color, box-shadow;
+}
+
+.image-gallery-view li:hover {
+  background-color: var(--lumo-base-color);
+  box-shadow: var(--lumo-box-shadow-s);
+}
+
+.report__layout-box-shawdow{
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+	padding: 11px 15px;;
+}
+
+
+#table_report{
+	font-family: Arial, Helvetica, sans-serif;
+  	border-collapse: collapse;
+  	width: 100%;
+}
+
+#table_report td, #table_report th{
+	border: 1px solid #ddd;
+  	padding: 8px;
+}
+
+#table_report th{
+	padding-top: 12px;
+  	padding-bottom: 12px;
+  	text-align: left;
+  	background-color: #476ba3;
+  	color: white;
+}
+
+#table_report th.header_group{
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
+.report-style{
+	padding: 10px;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+/*Card animation*/
+/* Thêm vào file report.css hoặc style component */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.card-animation {
+    animation: fadeInUp 0.5s ease-out forwards;
+    opacity: 0;
+}
+
+.card-hover-effect:hover {
+    animation: pulse 0.5s ease;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+}

@@ -1,0 +1,234 @@
+.layout__task{
+	width: 87%;
+    background: white;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    top: 49px;
+    /* left: 14px; */
+    /* left: 37px; */
+    /* inset-inline: 0; */
+    transition: inset-inline-start var(--vaadin-app-layout-transition);
+    padding-top: var(--safe-area-inset-top);
+    padding-left: var(--safe-area-inset-left);
+    padding-right: var(--safe-area-inset-right);
+    z-index: 1;
+}
+
+
+.task__button--border-radius{
+	border-radius: 40px;
+}
+
+@media only screen and (max-width: 500px){
+	.layout__task{
+		width: 85%;
+	}
+}
+
+.task__card_overview{
+	margin-top: -6px;
+    margin-right: -6px;
+    margin-left: auto;
+    border-radius: 0 0 10px 118px;
+    font-size: 15px;
+    width: 70px;
+    height: 50px;
+}
+
+.chua_thuc_hien{
+	color: #870000;
+    background: #ff212136;
+}
+
+.da_thuc_hien{
+	color: #870000;
+    margin-top: 4px;
+    height: 23px;
+    background: #ff212136;
+}
+
+
+.dahoanthanh_quahan{
+	color: hsl(0deg 100% 42.13%);
+    background-color: hsl(112.85deg 88.04% 40.2% / 42%);
+}
+
+
+.span_chua_thuc_hien{
+	background: #af8300;
+    color: #ffffff;
+}
+
+.span_dang_thuc_hien{
+    background:#0075bd;
+    color: #ffffff;
+}
+
+.span_da_hoan_thanh{
+    background:#007320;
+    color:#ffffff;
+}
+
+.span_tu_choi_nhiem_vu{
+	background:#a70000;
+    color: #ffffff;
+}
+
+.span_tam_hoan{
+	background: #7b8900;
+    color:#ffffff;
+}
+
+.dang_thuc_hien{
+	color:#ffffff;
+    background: #009775;
+}
+
+.thuc_hien_lai{
+	color:#ffffff;
+    background: #831889;
+}
+
+.cho_xac_nhan{
+	color: #ffffff;
+    background:#00238b;
+}
+
+.tu_choi_xac_nhan{
+	color: hsl(0deg 0% 100%);
+    background: hsl(43.62deg 100% 21.33% / 81%);
+}
+
+.ribbon {
+    background-color: aliceblue;
+}
+
+.task__summary-dangthuchien{
+	background: white;
+}
+
+.task__summary-choxacnhan{
+	background: #ffd50017;
+}
+
+.task__summary-dahoanthanh{
+	background: #e1ffe14a;
+}
+
+.task__summary-khac{
+	background: #c400000f;
+}
+
+.task_info_doc{
+	margin-top: -36px;
+	padding: 5px;
+	z-index: 5;
+	border: 1px solid #e7e7e7;
+	background: white;
+    margin-left: auto;
+    margin-right: 6px;
+    height: 92px;
+    border-radius: 0 0 10px 0;
+}
+
+.task_summary_doc{
+	width: 100%;
+    height: 30px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+.span--overflow{
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.layout-task-child{
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 10px;
+    background: white;
+    padding: 10px;
+}
+
+
+.layout-ord-selected{
+	gap: 10px;
+	padding: 0 10px;
+    display: flex !important;
+    background: #44474d;
+    width: 350px;
+    height: 50px;
+    margin: auto;
+    position: fixed;
+    bottom: 15px;
+    left: 45%;
+    border-radius: 10px;
+    transition: visibility .2s, translate .2s;
+    transition: all 0.3s ease-in-out;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.layout-grid-task:hover{
+	background: #ebf6ff6b;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.table_doc{
+	width: 700px;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+.table_doc, th,td{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.table_doc th{
+	width: 100px;
+}
+
+/*Summary animations*/
+/* Hiệu ứng zoom in khi load */
+@keyframes zoomIn {
+    from {
+        opacity: 0;
+        transform: scale(0.5);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* Hiệu ứng zoom nhẹ khi hover */
+@keyframes gentleZoom {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.summary-zoom-animation {
+    animation: zoomIn 0.5s ease-out forwards;
+    opacity: 0;
+}
+
+.summary-hover-zoom:hover {
+    animation: gentleZoom 0.5s ease;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    z-index: 10;
+    position: relative;
+}

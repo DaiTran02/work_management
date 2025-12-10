@@ -1,0 +1,149 @@
+.step_task_container{
+	width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+
+
+.item-step{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: #ad9f9f;
+}
+
+
+.item_index{
+	color: #ad9f9f;
+}
+
+.item-step.active{
+	color: #008311;
+}
+
+.item_index.active{
+	color: #008311;
+}
+
+.item-step.done{
+	color: #00a9de;
+}
+
+.item_index.done{
+	color: #00a9de;
+}
+
+.div_line_connect{
+	flex-grow: 1; /* Đường nối tự động giãn */
+    height: 2px; /* Dày của đường nối */
+    background-color: #e0e0e0;
+    position: relative;
+    z-index: 0; /* Luôn nằm dưới step */
+}
+
+.div_line_connect.connect_done{
+	background-color: #38598b;
+	animation: background-color-animation 3s linear infinite;
+}
+
+ @keyframes background-color-animation {
+	0% {
+	    background-color: #e7b5b5;
+	}
+	33% {
+	    background-color: #99c6ea;
+	}
+	66% {
+	    background-color: #b4f0cb;
+	}
+	100% {
+	    background-color: #e7b5b5;
+	}
+  }
+  
+  
+  
+.item_index.active {
+  position: relative;
+  z-index: 1;
+}
+
+.item_index.active::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  background: #b9ffc2; /* màu xanh dương nhạt */
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+  animation: pulse-ring 1.5s ease-out infinite;
+}
+
+@keyframes pulse-ring {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 0.7;
+  }
+  70% {
+    transform: translate(-50%, -50%) scale(1.6);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1.6);
+    opacity: 0;
+  }
+}
+
+
+/*Animations*/
+.div_line_connect {
+  position: relative;
+  width: 60px;
+  height: 4px;
+  background-color: #ccc;
+  margin: auto 12px;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+/* Hiệu ứng ánh sáng chạy */
+.div_line_connect.run_animation::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 14px;
+  height: 14px;
+  background-color: #00ffd0;
+  border-radius: 50%;
+  transform: translateY(-50%);
+  box-shadow: 0 0 8px 4px rgba(0, 255, 208, 0.6);
+  animation: ball-slide 1s ease-out forwards;
+  z-index: 10;
+}
+
+@keyframes ball-slide {
+  0% {
+    left: 0;
+    opacity: 1;
+    transform: translateY(-50%) scale(1);
+  }
+  50% {
+    transform: translateY(-50%) scale(1.3);
+  }
+  100% {
+    left: calc(100% - 14px);
+    opacity: 0;
+    transform: translateY(-50%) scale(0.9);
+  }
+}
+
+
+
+
+  

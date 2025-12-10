@@ -1,0 +1,237 @@
+{"properties": [
+  {
+    "name": "storages.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'storages.folder.path'"
+  },
+  {
+    "name": "task.expire.soon.number_day",
+    "type": "java.lang.String",
+    "description": "A description for 'task.expire.soon.number_day'"
+  },
+  {
+    "name": "redis.cache.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'redis.cache.enable'"
+  },
+  {
+    "name": "app.secure.api-partner.xapikey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.secure.api-partner.xapikey'"
+  },
+  {
+    "name": "security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.secret-key'"
+  },
+  {
+    "name": "security.jwt.expiration-time",
+    "type": "java.lang.String",
+    "description": "A description for 'security.jwt.expiration-time'"
+  },
+  {
+    "name": "app.task.required-doc",
+    "type": "java.lang.String",
+    "description": "A description for 'app.task.required-doc'"
+  },
+  {
+    "name": "app.user.auth-code.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'app.user.auth-code.enable'"
+  },
+  {
+    "name": "app.user.auth-code.expired-minutes",
+    "type": "java.lang.String",
+    "description": "A description for 'app.user.auth-code.expired-minutes'"
+  },
+  {
+    "name": "core.secure.api-partner.xapikey",
+    "type": "java.lang.String",
+    "description": "A description for 'core.secure.api-partner.xapikey'"
+  },
+  {
+    "name": "core.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'core.security.jwt.secret-key'"
+  },
+  {
+    "name": "core.security.jwt.expiration-seconds-time",
+    "type": "java.lang.String",
+    "description": "A description for 'core.security.jwt.expiration-seconds-time'"
+  },
+  {
+    "name": "core.security.api-partner.xapikey",
+    "type": "java.lang.String",
+    "description": "A description for 'core.security.api-partner.xapikey'"
+  },
+  {
+    "name": "core.storages.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'core.storages.folder.path'"
+  },
+  {
+    "name": "core.task.remind.expire.soon.days",
+    "type": "java.lang.String",
+    "description": "A description for 'core.task.remind.expire.soon.days'"
+  },
+  {
+    "name": "core.task.field.required-doc",
+    "type": "java.lang.String",
+    "description": "A description for 'core.task.field.required-doc'"
+  },
+  {
+    "name": "core.task.remind.expire-soon-days",
+    "type": "java.lang.String",
+    "description": "A description for 'core.task.remind.expire-soon-days'"
+  },
+  {
+    "name": "core.task.remind.expire-days",
+    "type": "java.lang.String",
+    "description": "A description for 'core.task.remind.expire-days'"
+  },
+  {
+    "name": "core.security.auth-code.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'core.security.auth-code.enable'"
+  },
+  {
+    "name": "core.security.auth-code.expired-minutes",
+    "type": "java.lang.String",
+    "description": "A description for 'core.security.auth-code.expired-minutes'"
+  },
+  {
+    "name": "core.task.field.endtime.soon-expire-days",
+    "type": "java.lang.String",
+    "description": "A description for 'core.task.field.endtime.soon-expire-days'"
+  },
+  {
+    "name": "core.task.field.endtime.about-to-expire-days",
+    "type": "java.lang.String",
+    "description": "A description for 'core.task.field.endtime.about-to-expire-days'"
+  },
+  {
+    "name": "ws.core.security.jwt.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.jwt.secret-key'"
+  },
+  {
+    "name": "ws.core.security.jwt.expiration-seconds-time",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.jwt.expiration-seconds-time'"
+  },
+  {
+    "name": "ws.core.security.api-partner.xapikey",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.api-partner.xapikey'"
+  },
+  {
+    "name": "ws.core.storages.folder.path",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.storages.folder.path'"
+  },
+  {
+    "name": "ws.core.task.field.endtime.about-to-expire-days",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.task.field.endtime.about-to-expire-days'"
+  },
+  {
+    "name": "ws.core.task.field.required-doc",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.task.field.required-doc'"
+  },
+  {
+    "name": "ws.core.security.auth-code.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.auth-code.enable'"
+  },
+  {
+    "name": "ws.core.security.auth-code.expired-minutes",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.auth-code.expired-minutes'"
+  },
+  {
+    "name": "ws.core.redis.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.redis.enable'"
+  },
+  {
+    "name": "ws.core.redis.host",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.redis.host'"
+  },
+  {
+    "name": "ws.core.redis.port",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.redis.port'"
+  },
+  {
+    "name": "ws.core.security.api-partner.rsa.private",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.api-partner.rsa.private'"
+  },
+  {
+    "name": "ws.core.security.api-partner.rsa.private-key",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.api-partner.rsa.private-key'"
+  },
+  {
+    "name": "ws.core.security.api-partner.rsa.public-key",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.api-partner.rsa.public-key'"
+  },
+  {
+    "name": "ws.core.security.api-partner.rsa.seconds-expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.api-partner.rsa.seconds-expiration'"
+  },
+  {
+    "name": "ws.core.casbin.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.casbin.enable'"
+  },
+  {
+    "name": "ws.core.casbin.path.model",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.casbin.path.model'"
+  },
+  {
+    "name": "ws.core.casbin.path.policy",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.casbin.path.policy'"
+  },
+  {
+    "name": "ws.core.security.auth-code.useable-times",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.security.auth-code.useable-times'"
+  },
+  {
+    "name": "ws.core.otp.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.otp.enable'"
+  },
+  {
+    "name": "ws.core.otp.url",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.otp.url'"
+  },
+  {
+    "name": "ws.core.otp.xapikey",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.otp.xapikey'"
+  },
+  {
+    "name": "ws.core.otp.allow.add-user-org-from-partner",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.otp.allow.add-user-org-from-partner'"
+  },
+  {
+    "name": "ws.core.otp.allow.add-user-org-from-partner-ignore-otp-disable",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.otp.allow.add-user-org-from-partner-ignore-otp-disable'"
+  },
+  {
+    "name": "ws.core.task.allow.view-organization-from-room",
+    "type": "java.lang.String",
+    "description": "A description for 'ws.core.task.allow.view-organization-from-room'"
+  }
+]}

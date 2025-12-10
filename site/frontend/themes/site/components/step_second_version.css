@@ -1,0 +1,101 @@
+.node_container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.node_step {
+    border: 1px solid;
+    padding: 10px 15px; /* Kích thước step */
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    position: relative;
+    z-index: 1; /* Luôn nằm trên đường nối */
+}
+
+.connector {
+    flex-grow: 1; /* Đường nối tự động giãn */
+    height: 2px; /* Dày của đường nối */
+    background-color: #e0e0e0;
+    position: relative;
+    z-index: 0; /* Luôn nằm dưới step */
+}
+
+.node_done{
+	background: #4b72afd6;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.node_step.node_done + .connector {
+    background-color: #38598b;
+    animation: background-color-animation 3s linear infinite; /* Hiệu ứng đổi màu */
+}
+
+.node_step:last-child + .connector {
+    display: none;
+}
+
+.last_connector{
+	display: none;
+}
+
+.node_step.active {
+    background: #0000008c;
+    border: 1px solid #8787878c;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+ @keyframes background-color-animation {
+    0% {
+      background-color: #ff6b6b; /* Màu đầu tiên */
+    }
+    33% {
+      background-color: #4dabf7; /* Màu thứ hai */
+    }
+    66% {
+      background-color: #32ff7e; /* Màu thứ ba */
+    }
+    100% {
+      background-color: #ff6b6b; /* Quay lại màu đầu tiên */
+    }
+  }
+
+
+/* Hiệu ứng chuyển động mượt mà khi thay đổi nội dung */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Thêm các lớp CSS cho fadeIn và fadeOut */
+.layout-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+}
+
+.layout-fade-out {
+    animation: fadeOut 0.5s ease-in forwards;
+}
+

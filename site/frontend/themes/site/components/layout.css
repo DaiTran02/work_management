@@ -1,0 +1,9 @@
+.layout__genera--style{
+	box-shadow: rgb(11 35 82 / 16%) 0px 1px 4px;
+	border-radius: 3px;
+}
+
+.aside__change-org:hover{
+	background-color: #ebf5ee;
+	cursor: pointer;
+}

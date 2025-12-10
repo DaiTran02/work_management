@@ -1,0 +1,1394 @@
+2024-05-24 00:04:48,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:04:48,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 00:09:49,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:09:49,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 00:14:50,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:14:50,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 00:19:51,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:19:51,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 00:24:52,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:24:52,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 00:29:53,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:29:53,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 00:34:54,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:34:54,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 00:39:55,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:39:55,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 00:44:56,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:44:56,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 00:49:57,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:49:57,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 00:54:58,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:54:58,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 00:59:59,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 00:59:59,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 01:05:00,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:05:00,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 01:10:01,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:10:01,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 01:15:02,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:15:02,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 01:20:03,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:20:03,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 01:25:04,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:25:04,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 01:30:05,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:30:05,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 01:35:06,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:35:06,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 01:40:07,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:40:07,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 01:45:08,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:45:08,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 01:50:09,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:50:09,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 01:55:10,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 01:55:10,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 02:00:11,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:00:11,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 02:05:12,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:05:12,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 02:10:13,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:10:13,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 02:15:14,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:15:14,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 02:20:15,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:20:15,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 02:25:16,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:25:16,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 02:30:17,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:30:17,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 02:35:18,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:35:18,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 02:40:19,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:40:19,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 02:45:20,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:45:20,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 02:50:21,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:50:21,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 02:55:22,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 02:55:22,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 03:00:23,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:00:23,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 03:05:24,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:05:24,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 03:10:25,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:10:25,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 03:15:26,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:15:26,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 03:20:27,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:20:27,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 03:25:28,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:25:28,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 03:30:29,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:30:29,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 03:35:30,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:35:30,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 03:40:31,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:40:31,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 03:45:32,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:45:32,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 03:50:33,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:50:33,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 03:55:34,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 03:55:34,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 04:00:35,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:00:35,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 04:05:36,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:05:36,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 04:10:37,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:10:37,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 04:15:38,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:15:38,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 04:20:39,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:20:39,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 04:25:40,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:25:40,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 04:30:41,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:30:41,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 04:35:42,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:35:42,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 04:40:43,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:40:43,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 04:45:44,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:45:44,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 04:50:45,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:50:45,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 04:55:46,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 04:55:46,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 05:00:47,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:00:47,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 05:05:48,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:05:48,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 05:10:49,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:10:49,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 05:15:50,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:15:50,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 05:20:51,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:20:51,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 05:25:52,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:25:52,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 05:30:53,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:30:53,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 05:35:54,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:35:54,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 05:40:55,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:40:55,063 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 05:45:56,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:45:56,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 05:50:57,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:50:57,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 05:55:58,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 05:55:58,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 06:00:59,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:00:59,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 06:06:00,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:06:00,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 06:11:01,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:11:01,063 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 06:16:02,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:16:02,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 06:21:03,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:21:03,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 06:26:04,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:26:04,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 06:31:05,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:31:05,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 06:36:06,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:36:06,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 06:41:07,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:41:07,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 06:46:08,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:46:08,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 06:51:09,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:51:09,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 06:56:10,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 06:56:10,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 07:01:11,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:01:11,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 07:06:12,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:06:12,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 07:11:13,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:11:13,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 07:16:14,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:16:14,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 07:21:15,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:21:15,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 07:26:16,046 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:26:16,047 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 07:31:17,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:31:17,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 07:36:18,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:36:18,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 07:41:19,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:41:19,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 07:46:20,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:46:20,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 07:51:21,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:51:21,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 07:56:22,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 07:56:22,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 08:01:23,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:01:23,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 08:06:24,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:06:24,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 08:11:25,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:11:25,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 08:16:26,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:16:26,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 08:21:27,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:21:27,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 08:26:28,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:26:28,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 08:31:29,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:31:29,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 08:36:30,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:36:30,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 08:41:31,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:41:31,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 08:46:32,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:46:32,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 08:51:33,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:51:33,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 08:56:34,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 08:56:34,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 09:01:35,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:01:35,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 09:06:36,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:06:36,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 09:11:37,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:11:37,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 09:16:38,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:16:38,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 09:21:39,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:21:39,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 09:26:40,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:26:40,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 09:31:41,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:31:41,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 09:36:42,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:36:42,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 09:41:43,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:41:43,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 09:46:44,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:46:44,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 09:51:45,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:51:45,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 09:56:46,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 09:56:46,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 10:01:47,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:01:47,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 10:06:48,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:06:48,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 10:11:49,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:11:49,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 10:16:50,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:16:50,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 10:21:51,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:21:51,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 10:26:52,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:26:52,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 10:31:53,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:31:53,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 10:36:54,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:36:54,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 10:41:55,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:41:55,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 10:46:56,046 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:46:56,047 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 10:51:57,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:51:57,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 10:56:58,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 10:56:58,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 11:01:59,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:01:59,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 11:07:00,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:07:00,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 11:12:01,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:12:01,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 11:17:02,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:17:02,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 11:22:03,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:22:03,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 11:27:04,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:27:04,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 11:32:05,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:32:05,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 11:37:06,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:37:06,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 11:42:07,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:42:07,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 11:47:08,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:47:08,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 11:52:09,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:52:09,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 11:57:10,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 11:57:10,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:02:11,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:02:11,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 12:07:12,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:07:12,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:12:13,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:12:13,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:17:14,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:17:14,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:22:15,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:22:15,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 12:22:38,883 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:38,920 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 12:22:38,921 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Accept=[application/json, application/*+json]
+2024-05-24 12:22:38,922 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Writing [] as "application/json"
+2024-05-24 12:22:39,142 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Response 200 OK
+2024-05-24 12:22:39,142 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:22:39,146 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] HTTP GET http://192.168.10.9:8090/api/site/tasks/664aba0d7e99fa4372604501
+2024-05-24 12:22:39,148 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Accept=[application/json, application/*+json]
+2024-05-24 12:22:39,148 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Writing [] as "application/json"
+2024-05-24 12:22:39,206 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Response 200 OK
+2024-05-24 12:22:39,206 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.tasks.ApiOutputTaskModel>]
+2024-05-24 12:22:39,257 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] HTTP GET http://192.168.10.9:8090/api/site/tasks/664aba0d7e99fa4372604501
+2024-05-24 12:22:39,258 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Accept=[application/json, application/*+json]
+2024-05-24 12:22:39,259 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Writing [] as "application/json"
+2024-05-24 12:22:39,283 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Response 200 OK
+2024-05-24 12:22:39,283 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.tasks.ApiOutputTaskModel>]
+2024-05-24 12:22:39,307 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:22:39,440 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:39,441 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:22:41,482 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:41,504 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/docs/66461c57cb59907bbff5838c
+2024-05-24 12:22:41,505 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,506 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,537 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,537 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.doc.ApiDocModel>]
+2024-05-24 12:22:41,541 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 12:22:41,541 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,541 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,554 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,554 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:22:41,556 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-users
+2024-05-24 12:22:41,559 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,559 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,592 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,592 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiUserGroupExpandModel>>]
+2024-05-24 12:22:41,595 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/tasks/664aba0d7e99fa4372604501
+2024-05-24 12:22:41,597 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,597 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,617 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,618 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.tasks.ApiOutputTaskModel>]
+2024-05-24 12:22:41,627 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations/66446b35df546275e906d1a5
+2024-05-24 12:22:41,629 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,629 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,653 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,653 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.organization.ApiOrganizationModel>]
+2024-05-24 12:22:41,662 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations?skip=0&limit=10000&parentId=6644682cdf546275e906d0d5
+2024-05-24 12:22:41,663 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,663 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,688 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,688 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiOrganizationModel>>]
+2024-05-24 12:22:41,692 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-groups
+2024-05-24 12:22:41,692 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,692 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,708 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,708 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiGroupExpandModel>>]
+2024-05-24 12:22:41,720 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/classify-task?skip=0&limit=100000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:22:41,721 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,722 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,745 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,745 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.classify_task.ApiClassifyTaskModel>>]
+2024-05-24 12:22:41,751 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/leader-approve-task?skip=0&limit=10000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:22:41,753 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:22:41,753 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:22:41,772 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:22:41,772 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.leader_approve_task.ApiLeaderApproveTaskModel>>]
+2024-05-24 12:22:41,792 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:22:41,895 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:41,897 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 12:22:45,318 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:45,323 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] HTTP GET http://192.168.10.9:8090/api/site/organizations?skip=0&limit=10000&parentId=6644682cdf546275e906d0d5
+2024-05-24 12:22:45,325 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Accept=[application/json, application/*+json]
+2024-05-24 12:22:45,325 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Writing [] as "application/json"
+2024-05-24 12:22:45,364 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Response 200 OK
+2024-05-24 12:22:45,365 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiOrganizationModel>>]
+2024-05-24 12:22:45,400 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:22:45,445 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:45,452 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:22:47,643 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:47,662 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 12:22:47,710 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:47,711 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 12:22:51,465 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:51,467 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 12:22:52,439 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:52,441 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 12:22:52,446 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:52,447 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:22:53,238 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:53,240 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:22:53,245 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:53,246 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:22:53,765 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:53,766 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 12:22:53,773 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:53,774 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:22:54,278 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:54,280 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:22:54,285 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:54,286 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 12:22:54,991 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:54,993 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 12:22:54,998 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:54,999 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 12:22:56,280 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:56,281 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 12:22:56,308 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:22:56,309 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:23:07,033 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:07,036 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:23:08,691 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:08,693 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:23:10,399 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:10,403 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 12:23:11,768 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:11,785 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] HTTP GET http://192.168.10.9:8090/api/site/docs/category
+2024-05-24 12:23:11,787 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Accept=[application/json, application/*+json]
+2024-05-24 12:23:11,787 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Writing [] as "application/json"
+2024-05-24 12:23:11,800 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Response 200 OK
+2024-05-24 12:23:11,800 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:23:11,802 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] HTTP GET http://192.168.10.9:8090/api/site/docs/status
+2024-05-24 12:23:11,803 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Accept=[application/json, application/*+json]
+2024-05-24 12:23:11,803 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Writing [] as "application/json"
+2024-05-24 12:23:11,814 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Response 200 OK
+2024-05-24 12:23:11,814 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:23:11,815 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-groups
+2024-05-24 12:23:11,816 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Accept=[application/json, application/*+json]
+2024-05-24 12:23:11,816 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Writing [] as "application/json"
+2024-05-24 12:23:11,833 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Response 200 OK
+2024-05-24 12:23:11,834 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiGroupExpandModel>>]
+2024-05-24 12:23:11,849 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&keyword=&active=true
+2024-05-24 12:23:11,850 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Accept=[application/json, application/*+json]
+2024-05-24 12:23:11,850 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Writing [] as "application/json"
+2024-05-24 12:23:11,879 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Response 200 OK
+2024-05-24 12:23:11,880 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-10] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 12:23:11,910 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:23:11,985 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:11,987 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:23:13,414 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:13,426 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/docs/664b0f0f5a95ea74f27c8bef
+2024-05-24 12:23:13,427 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 12:23:13,427 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 12:23:13,442 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 12:23:13,442 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.doc.ApiDocModel>]
+2024-05-24 12:23:13,445 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 12:23:13,446 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 12:23:13,446 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 12:23:13,463 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 12:23:13,463 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:23:13,464 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-users
+2024-05-24 12:23:13,465 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 12:23:13,465 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 12:23:13,483 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 12:23:13,483 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiUserGroupExpandModel>>]
+2024-05-24 12:23:13,489 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/classify-task?skip=0&limit=100000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:23:13,489 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 12:23:13,489 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 12:23:13,507 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 12:23:13,507 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.classify_task.ApiClassifyTaskModel>>]
+2024-05-24 12:23:13,509 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/leader-approve-task?skip=0&limit=10000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:23:13,510 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 12:23:13,510 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 12:23:13,526 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 12:23:13,527 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.leader_approve_task.ApiLeaderApproveTaskModel>>]
+2024-05-24 12:23:13,544 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 12:23:13,632 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:13,634 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 12:23:21,618 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:21,635 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/docs/category
+2024-05-24 12:23:21,635 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 12:23:21,635 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 12:23:21,647 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 200 OK
+2024-05-24 12:23:21,647 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:23:21,648 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/docs/security
+2024-05-24 12:23:21,649 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 12:23:21,649 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 12:23:21,662 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 200 OK
+2024-05-24 12:23:21,662 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:23:21,663 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/classify-task?skip=0&limit=100000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:23:21,664 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 12:23:21,664 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 12:23:21,679 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 200 OK
+2024-05-24 12:23:21,680 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.classify_task.ApiClassifyTaskModel>>]
+2024-05-24 12:23:21,682 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/leader-approve-task?skip=0&limit=10000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:23:21,682 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 12:23:21,683 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 12:23:21,699 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 200 OK
+2024-05-24 12:23:21,699 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.leader_approve_task.ApiLeaderApproveTaskModel>>]
+2024-05-24 12:23:21,701 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/docs/664b0f0f5a95ea74f27c8bef
+2024-05-24 12:23:21,701 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 12:23:21,702 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 12:23:21,717 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 200 OK
+2024-05-24 12:23:21,717 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.doc.ApiDocModel>]
+2024-05-24 12:23:21,746 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 12:23:21,836 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:21,837 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:23:24,366 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:24,367 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:23:25,185 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:25,186 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:23:26,899 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:26,902 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:23:26,907 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:26,908 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:23:27,836 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:27,837 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 12:23:28,530 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:28,531 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 12:23:30,140 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:30,141 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 12:23:30,669 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:30,671 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 12:23:30,675 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:30,676 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:23:31,367 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:31,368 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:23:32,820 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:32,828 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP PUT http://192.168.10.9:8090/api/site/docs/664b0f0f5a95ea74f27c8bef
+2024-05-24 12:23:32,829 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:23:32,829 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [{"number":"da","symbol":"ádas","security":"TuyetMat","regDate":1716138000000,"type":"đá","signerName":"sadasd","signerPosition":"sadasdsadsad","copies":null,"pages":null,"orgReceiveName":"asdasdasd","orgCreateName":"sadasd","summary":"ádasd","category":"CVDen","active":true,"owner":{"organizationId":"6644682cdf546275e906d0d5","organizationName":"UBND Thành Phố HN","organizationGroupId":"66446e1edf546275e906d402","organizationGroupName":"Tổ giao việc 1","organizationUserId":"66446509df546275e906d009","organizationUserName":"daikaka"},"attachments":[],"classifyTaskId":"66457c02d6d7814610e3406d","leaderApproveTaskId":"66457c10d6d7814610e34073"}] as "application/json"
+2024-05-24 12:23:32,955 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:23:32,955 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.doc.ApiDocModel>]
+2024-05-24 12:23:32,957 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/docs/664b0f0f5a95ea74f27c8bef
+2024-05-24 12:23:32,958 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:23:32,958 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:23:32,973 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:23:32,973 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.doc.ApiDocModel>]
+2024-05-24 12:23:32,975 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 12:23:32,976 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:23:32,976 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:23:32,986 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:23:32,986 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 12:23:32,987 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-users
+2024-05-24 12:23:32,987 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:23:32,988 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:23:33,004 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:23:33,004 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiUserGroupExpandModel>>]
+2024-05-24 12:23:33,008 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/classify-task?skip=0&limit=100000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:23:33,009 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:23:33,009 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:23:33,023 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:23:33,024 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.classify_task.ApiClassifyTaskModel>>]
+2024-05-24 12:23:33,025 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/leader-approve-task?skip=0&limit=10000&active=false&organizationId=6644682cdf546275e906d0d5
+2024-05-24 12:23:33,025 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:23:33,025 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:23:33,039 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:23:33,039 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.leader_approve_task.ApiLeaderApproveTaskModel>>]
+2024-05-24 12:23:33,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:23:33,116 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:33,117 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 12:23:38,135 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:23:38,136 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:27:15,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:27:15,063 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:32:15,079 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:32:15,080 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 12:37:15,097 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:37:15,098 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 12:42:15,119 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:42:15,120 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 12:47:15,130 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:47:15,131 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:50:29,423 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:29,434 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations?skip=0&limit=10000&parentId=6644682cdf546275e906d0d5
+2024-05-24 12:50:29,436 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 12:50:29,437 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 12:50:29,461 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 12:50:29,461 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiOrganizationModel>>]
+2024-05-24 12:50:29,477 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 12:50:29,540 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:29,542 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 12:50:31,316 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:31,318 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:50:31,895 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:31,896 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 12:50:32,680 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:32,683 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 12:50:33,933 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:33,934 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 12:50:34,322 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:34,324 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 12:50:35,154 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:35,155 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 12:50:36,568 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:36,570 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 12:50:39,937 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 12:50:39,939 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 12:52:16,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:52:16,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 12:57:17,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 12:57:17,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 13:02:18,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:02:18,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 13:07:19,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:07:19,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 13:12:20,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:12:20,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 13:17:21,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:17:21,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 13:22:22,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:22:22,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 13:27:23,046 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:27:23,047 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 13:32:24,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:32:24,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 13:37:25,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:37:25,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 13:42:26,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:42:26,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 13:47:27,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:47:27,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 13:52:28,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:52:28,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 13:57:29,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 13:57:29,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:02:30,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:02:30,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:07:31,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:07:31,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:12:32,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:12:32,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:17:33,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:17:33,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:22:34,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:22:34,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:27:35,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:27:35,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:32:36,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:32:36,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:36:07,802 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:07,806 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:36:07,810 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:07,811 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:36:08,989 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:08,992 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-users-in-group/66446e1edf546275e906d402
+2024-05-24 14:36:08,994 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:36:08,994 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:36:09,025 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:36:09,025 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiUserGroupExpandModel>>]
+2024-05-24 14:36:09,029 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&organizationGroupId=66446e1edf546275e906d402&keyword=&active=true
+2024-05-24 14:36:09,030 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:36:09,030 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:36:09,051 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:36:09,052 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 14:36:09,057 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&organizationGroupId=66446e1edf546275e906d402&keyword=&active=true
+2024-05-24 14:36:09,058 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:36:09,058 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:36:09,079 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:36:09,079 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 14:36:09,087 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:36:09,088 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:36:09,088 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:36:09,104 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:36:09,105 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:36:09,111 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:36:09,111 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:36:09,111 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:36:09,124 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:36:09,124 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:36:09,140 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:36:09,195 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:09,197 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:36:09,206 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:09,208 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:36:09,339 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:09,341 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:36:09,750 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:09,751 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:36:10,605 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:10,606 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/organizations/6644682cdf546275e906d0d5/list-users-in-group/6645bf7fcb59907bbff57c2a
+2024-05-24 14:36:10,607 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 14:36:10,607 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 14:36:10,623 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 14:36:10,624 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiUserGroupExpandModel>>]
+2024-05-24 14:36:10,625 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&organizationGroupId=6645bf7fcb59907bbff57c2a&keyword=&active=true
+2024-05-24 14:36:10,626 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 14:36:10,626 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 14:36:10,646 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 14:36:10,646 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 14:36:10,649 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&organizationGroupId=6645bf7fcb59907bbff57c2a&keyword=&active=true
+2024-05-24 14:36:10,650 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 14:36:10,650 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 14:36:10,671 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 14:36:10,671 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 14:36:10,675 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:36:10,675 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 14:36:10,676 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 14:36:10,693 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 14:36:10,693 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:36:10,699 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:36:10,699 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 14:36:10,700 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 14:36:10,712 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 14:36:10,712 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:36:10,725 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 14:36:10,749 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:10,751 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:36:10,760 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:10,761 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:36:11,146 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:11,147 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:36:11,700 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:11,702 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&keyword=&active=true
+2024-05-24 14:36:11,703 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Accept=[application/json, application/*+json]
+2024-05-24 14:36:11,703 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Writing [] as "application/json"
+2024-05-24 14:36:11,720 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Response 200 OK
+2024-05-24 14:36:11,720 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 14:36:11,726 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] HTTP GET http://192.168.10.9:8090/api/site/docs?skip=0&limit=10&fromDate=1704042000000&toDate=1735664399000&organizationId=6644682cdf546275e906d0d5&keyword=&active=true
+2024-05-24 14:36:11,727 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Accept=[application/json, application/*+json]
+2024-05-24 14:36:11,727 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Writing [] as "application/json"
+2024-05-24 14:36:11,747 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Response 200 OK
+2024-05-24 14:36:11,748 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.doc.ApiDocModel>>]
+2024-05-24 14:36:11,755 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:36:11,755 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Accept=[application/json, application/*+json]
+2024-05-24 14:36:11,755 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Writing [] as "application/json"
+2024-05-24 14:36:11,770 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Response 200 OK
+2024-05-24 14:36:11,770 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:36:11,776 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:36:11,777 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Accept=[application/json, application/*+json]
+2024-05-24 14:36:11,777 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Writing [] as "application/json"
+2024-05-24 14:36:11,790 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Response 200 OK
+2024-05-24 14:36:11,790 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:36:11,809 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:36:11,853 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:11,855 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:36:11,867 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:11,871 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:36:12,195 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:12,197 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:36:12,899 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:12,901 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:36:13,316 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:13,319 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:36:13,323 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:13,324 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 14:36:14,063 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:14,064 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:36:31,761 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:31,765 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-4] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:31,766 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-4] Accept=[application/json, application/*+json]
+2024-05-24 14:36:31,766 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-4] Writing [] as "application/json"
+2024-05-24 14:36:31,781 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-4] Response 200 OK
+2024-05-24 14:36:31,781 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-4] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:31,782 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:36:33,005 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:33,008 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:33,009 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Accept=[application/json, application/*+json]
+2024-05-24 14:36:33,009 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Writing [] as "application/json"
+2024-05-24 14:36:33,022 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Response 200 OK
+2024-05-24 14:36:33,023 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:33,023 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:36:33,560 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:33,564 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:33,564 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:36:33,565 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:36:33,579 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:36:33,579 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:33,580 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:36:33,749 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:33,752 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-2] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:33,753 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-2] Accept=[application/json, application/*+json]
+2024-05-24 14:36:33,753 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-2] Writing [] as "application/json"
+2024-05-24 14:36:33,766 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-2] Response 200 OK
+2024-05-24 14:36:33,766 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-2] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:33,767 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:36:33,930 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:33,933 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:33,934 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 14:36:33,934 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 14:36:33,948 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 200 OK
+2024-05-24 14:36:33,948 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:33,949 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:36:34,657 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:34,660 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:34,661 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Accept=[application/json, application/*+json]
+2024-05-24 14:36:34,661 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Writing [] as "application/json"
+2024-05-24 14:36:34,674 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Response 200 OK
+2024-05-24 14:36:34,675 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-8] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:34,675 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:36:35,134 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:35,138 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:35,139 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:36:35,139 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:36:35,153 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:36:35,153 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:35,154 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:36:35,511 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:35,514 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:35,515 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Accept=[application/json, application/*+json]
+2024-05-24 14:36:35,515 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Writing [] as "application/json"
+2024-05-24 14:36:35,533 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Response 200 OK
+2024-05-24 14:36:35,533 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-5] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:35,533 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 14:36:35,879 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:35,883 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:36:35,883 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Accept=[application/json, application/*+json]
+2024-05-24 14:36:35,884 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Writing [] as "application/json"
+2024-05-24 14:36:35,898 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Response 200 OK
+2024-05-24 14:36:35,898 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:36:35,899 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:36:36,349 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:36,350 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:36:37,106 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:37,107 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:36:37,576 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:37,577 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:36:38,837 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:38,838 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:36:39,510 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:39,511 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:36:39,777 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:39,778 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:36:41,274 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:41,278 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:36:41,285 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:41,286 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:36:42,033 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:42,034 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 14:36:43,371 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:43,377 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:36:43,377 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Accept=[application/json, application/*+json]
+2024-05-24 14:36:43,378 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Writing [] as "application/json"
+2024-05-24 14:36:43,387 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Response 200 OK
+2024-05-24 14:36:43,388 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:36:43,395 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] HTTP GET http://192.168.10.9:8090/api/site/organizations?skip=0&limit=10000&parentId=6644682cdf546275e906d0d5
+2024-05-24 14:36:43,396 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Accept=[application/json, application/*+json]
+2024-05-24 14:36:43,397 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Writing [] as "application/json"
+2024-05-24 14:36:43,414 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Response 200 OK
+2024-05-24 14:36:43,414 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiOrganizationModel>>]
+2024-05-24 14:36:43,415 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:36:43,416 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Accept=[application/json, application/*+json]
+2024-05-24 14:36:43,416 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Writing [] as "application/json"
+2024-05-24 14:36:43,425 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Response 200 OK
+2024-05-24 14:36:43,425 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:36:43,433 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] HTTP GET http://192.168.10.9:8090/api/site/tasks/list-tasks-owner?skip=0&limit=10&fromDate=1703403403394&toDate=1716536203394&ownerOrganizationId=6644682cdf546275e906d0d5
+2024-05-24 14:36:43,435 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Accept=[application/json, application/*+json]
+2024-05-24 14:36:43,435 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Writing [] as "application/json"
+2024-05-24 14:36:43,534 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Response 200 OK
+2024-05-24 14:36:43,534 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.tasks.ApiOutputTaskModel>>]
+2024-05-24 14:36:43,565 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:36:43,565 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Accept=[application/json, application/*+json]
+2024-05-24 14:36:43,566 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Writing [] as "application/json"
+2024-05-24 14:36:43,574 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Response 200 OK
+2024-05-24 14:36:43,574 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-1] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:36:43,617 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-1] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:36:43,619 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-1] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:36:43,620 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-1] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:36:43,623 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-1] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:36:43,639 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:36:43,750 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:36:43,752 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:37:36,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:37:36,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:38:07,044 INFO o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(5526)-127.0.0.1] Application shutdown requested.
+2024-05-24 14:38:07,047 INFO o.a.j.l.DirectJDKLog [RMI TCP Connection(5526)-127.0.0.1] Stopping ProtocolHandler ["http-nio-8081"]
+2024-05-24 14:41:58,055 INFO o.h.v.i.u.Version [background-preinit] HV000001: Hibernate Validator 8.0.1.Final
+2024-05-24 14:41:58,092 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 21.0.2 with PID 5924 (C:\Users\PC\git\tdnv-hanoi\site\target\classes started by PC in C:\Users\PC\git\tdnv-hanoi\site)
+2024-05-24 14:41:58,093 INFO o.s.b.SpringApplication [restartedMain] The following 1 profile is active: "khue"
+2024-05-24 14:41:58,137 INFO o.s.b.l.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-05-24 14:41:59,307 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat initialized with port 8081 (http)
+2024-05-24 14:41:59,315 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8081"]
+2024-05-24 14:41:59,317 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2024-05-24 14:41:59,317 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-05-24 14:41:59,379 INFO o.a.j.l.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2024-05-24 14:41:59,380 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1242 ms
+2024-05-24 14:41:59,407 DEBUG o.s.b.w.s.ServletContextInitializerBeans [restartedMain] Mapping filters: springSecurityFilterChain urls=[/*] order=-100, characterEncodingFilter urls=[/*] order=-2147483648, formContentFilter urls=[/*] order=-9900, requestContextFilter urls=[/*] order=-105
+2024-05-24 14:41:59,408 DEBUG o.s.b.w.s.ServletContextInitializerBeans [restartedMain] Mapping servlets: dispatcherServlet urls=[/], springServlet urls=[/vaadinServlet/*]
+2024-05-24 14:42:00,305 INFO c.v.f.s.VaadinServletContextInitializer$DevModeServletContextListener [restartedMain] Search for subclasses and classes with annotations took 614 ms
+2024-05-24 14:42:00,748 INFO c.v.b.d.s.DevModeInitializer [restartedMain] Starting dev-mode updaters in C:\Users\PC\git\tdnv-hanoi\site folder.
+2024-05-24 14:42:00,793 INFO c.v.f.s.f.s.FullDependenciesScanner [restartedMain] Visited 182 classes. Took 31 ms.
+2024-05-24 14:42:00,795 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] Checking if a development mode bundle build is needed
+2024-05-24 14:42:01,091 INFO c.v.f.s.f.BundleValidationUtil [restartedMain] A development mode bundle build is not needed
+2024-05-24 14:42:01,114 INFO c.v.f.s.f.TaskCopyFrontendFiles [ForkJoinPool.commonPool-worker-2] Copying frontend resources from jar files ...
+2024-05-24 14:42:01,126 WARN o.a.j.l.DirectJDKLog [restartedMain] Cannot deserialize session attribute [ORGLIST] for session [6800262F95D3EE914C4DC61D8DBF5403]
+2024-05-24 14:42:01,127 ERROR o.a.j.l.DirectJDKLog [restartedMain] Exception loading sessions from persistent storage
+java.lang.ClassCastException: class java.io.ObjectStreamClass cannot be cast to class java.lang.String (java.io.ObjectStreamClass and java.lang.String are in module java.base of loader 'bootstrap')
+	at java.base/java.io.ObjectInputStream.readTypeString(ObjectInputStream.java:1839)
+	at java.base/java.io.ObjectStreamClass.readNonProxy(ObjectStreamClass.java:709)
+	at java.base/java.io.ObjectInputStream.readClassDescriptor(ObjectInputStream.java:1014)
+	at java.base/java.io.ObjectInputStream.readNonProxyDesc(ObjectInputStream.java:2050)
+	at java.base/java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1927)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2252)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1762)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:540)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:498)
+	at org.apache.catalina.session.StandardSession.doReadObject(StandardSession.java:1415)
+	at org.apache.catalina.session.StandardSession.readObjectData(StandardSession.java:985)
+	at org.apache.catalina.session.StandardManager.doLoad(StandardManager.java:210)
+	at org.apache.catalina.session.StandardManager.load(StandardManager.java:156)
+	at org.apache.catalina.session.StandardManager.startInternal(StandardManager.java:346)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4877)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:845)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:240)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:917)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:488)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:123)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.<init>(TomcatWebServer.java:104)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getTomcatWebServer(TomcatServletWebServerFactory.java:501)
+	at org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactory.getWebServer(TomcatServletWebServerFactory.java:218)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:188)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:610)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:753)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:455)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:323)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1342)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1331)
+	at com.ngn.Application.main(Application.java:22)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:50)
+2024-05-24 14:42:01,289 INFO c.v.f.s.f.TaskCopyFrontendFiles [ForkJoinPool.commonPool-worker-2] Visited 23 resources. Took 175 ms.
+2024-05-24 14:42:01,446 DEBUG o.s.w.s.h.AbstractHandlerMethodMapping [restartedMain] 2 mappings in 'requestMappingHandlerMapping'
+2024-05-24 14:42:01,499 DEBUG o.s.w.s.h.SimpleUrlHandlerMapping [restartedMain] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2024-05-24 14:42:01,503 INFO o.s.s.w.DefaultSecurityFilterChain [restartedMain] Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@26037b72, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@24e72592, org.springframework.security.web.context.SecurityContextHolderFilter@3ee0c500, org.springframework.security.web.header.HeaderWriterFilter@17673388, org.springframework.web.filter.CorsFilter@62f0e9f7, org.springframework.security.web.csrf.CsrfFilter@1f2ba7b1, org.springframework.security.web.authentication.logout.LogoutFilter@5b6f6789, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3d35481b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3fa7b886, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@12b9d427, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5f6af25c, org.springframework.security.web.access.ExceptionTranslationFilter@6a2c38dd, org.springframework.security.web.access.intercept.AuthorizationFilter@2b6187a9]
+2024-05-24 14:42:01,559 DEBUG o.s.w.s.m.m.a.RequestMappingHandlerAdapter [restartedMain] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-05-24 14:42:01,592 DEBUG o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver [restartedMain] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-05-24 14:42:01,745 INFO o.s.b.d.a.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2024-05-24 14:42:01,829 INFO o.a.j.l.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8081"]
+2024-05-24 14:42:01,847 INFO c.v.f.s.DefaultDeploymentConfiguration [restartedMain] 
+Vaadin is running in DEVELOPMENT mode - do not use for production deployments.
+2024-05-24 14:42:01,900 INFO o.s.b.w.e.t.TomcatWebServer [restartedMain] Tomcat started on port 8081 (http) with context path ''
+2024-05-24 14:42:01,906 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 4.285 seconds (process running for 5.076)
+2024-05-24 14:42:03,182 INFO o.a.j.l.DirectJDKLog [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-24 14:42:03,183 INFO o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet'
+2024-05-24 14:42:03,183 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected StandardServletMultipartResolver
+2024-05-24 14:42:03,183 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected AcceptHeaderLocaleResolver
+2024-05-24 14:42:03,183 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected FixedThemeResolver
+2024-05-24 14:42:03,184 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@533dd6d6
+2024-05-24 14:42:03,184 DEBUG o.s.w.s.DispatcherServlet [http-nio-8081-exec-1] Detected org.springframework.web.servlet.support.SessionFlashMapManager@2a47a82c
+2024-05-24 14:42:03,184 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] enableLoggingRequestDetails='true': request parameters and headers will be shown which may lead to unsafe logging of potentially sensitive data
+2024-05-24 14:42:03,185 INFO o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed initialization in 1 ms
+2024-05-24 14:42:03,195 WARN o.s.w.s.h.HandlerMappingIntrospector$CacheResultLogHelper [http-nio-8081-exec-1] Cache miss for REQUEST dispatch to '/' (previous null). Performing CorsConfiguration lookup. This is logged once only at WARN level, and every time at TRACE.
+2024-05-24 14:42:03,214 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:03,229 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:42:03,256 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/?v-r=init&location=task&query=", parameters={v-r:[init], location:[task], query:[]}
+2024-05-24 14:42:03,273 INFO c.v.f.s.SpringInstantiator [http-nio-8081-exec-3] The number of beans implementing 'I18NProvider' is 0. Cannot use Spring beans for I18N, falling back to the default behavior
+2024-05-24 14:42:03,275 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/login", parameters={}
+2024-05-24 14:42:03,372 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:42:03,384 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:42:03,386 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/login", parameters={}
+2024-05-24 14:42:03,389 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:03,391 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:42:03,396 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/VAADIN/build/indexhtml-3yTpjOMh.js", parameters={}
+2024-05-24 14:42:03,399 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:42:03,403 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,408 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/VAADIN/build/indexhtml-3yTpjOMh.js", parameters={}
+2024-05-24 14:42:03,410 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,651 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/VAADIN/build/copilot-log-plugin-7xE84pLq-gUizYptJ.js", parameters={}
+2024-05-24 14:42:03,652 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/VAADIN/build/base-panel-f4d2zbj_-RztwkH4K.js", parameters={}
+2024-05-24 14:42:03,652 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/copilot-info-plugin-apq7fWiV-JxXYKMen.js", parameters={}
+2024-05-24 14:42:03,653 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/copilot-features-plugin-yghm7CDp-rHvPiVQX.js", parameters={}
+2024-05-24 14:42:03,654 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,654 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/VAADIN/build/copilot-outline-karbHoTY-u-k2G8HH.js", parameters={}
+2024-05-24 14:42:03,654 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/copilot-database-plugin-7-YM52bw-ZHX5Jkfk.js", parameters={}
+2024-05-24 14:42:03,654 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,654 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,655 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,655 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/VAADIN/build/copilot-theme-editor-plugin-aECZ1mTl-r5OxiCOF.js", parameters={}
+2024-05-24 14:42:03,656 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,657 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,658 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,659 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/?v-r=init&location=login&query=", parameters={v-r:[init], location:[login], query:[]}
+2024-05-24 14:42:03,662 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:42:03,715 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/FlowBootstrap--451WYy8.js", parameters={}
+2024-05-24 14:42:03,717 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,722 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/generated-flow-imports-2gV3GsjP.js", parameters={}
+2024-05-24 14:42:03,724 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,767 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/copilot-log-plugin-7xE84pLq-gUizYptJ.js", parameters={}
+2024-05-24 14:42:03,767 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/VAADIN/build/copilot-info-plugin-apq7fWiV-JxXYKMen.js", parameters={}
+2024-05-24 14:42:03,767 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/VAADIN/build/base-panel-f4d2zbj_-RztwkH4K.js", parameters={}
+2024-05-24 14:42:03,769 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,769 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,770 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,776 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/?v-r=init&location=login&query=", parameters={v-r:[init], location:[login], query:[]}
+2024-05-24 14:42:03,780 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:42:03,795 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/VAADIN/build/copilot-features-plugin-yghm7CDp-rHvPiVQX.js", parameters={}
+2024-05-24 14:42:03,797 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,804 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/VAADIN/build/copilot-database-plugin-7-YM52bw-ZHX5Jkfk.js", parameters={}
+2024-05-24 14:42:03,804 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/copilot-outline-karbHoTY-u-k2G8HH.js", parameters={}
+2024-05-24 14:42:03,806 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,806 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,824 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] GET "/VAADIN/build/copilot-theme-editor-plugin-aECZ1mTl-r5OxiCOF.js", parameters={}
+2024-05-24 14:42:03,827 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,830 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/FlowBootstrap--451WYy8.js", parameters={}
+2024-05-24 14:42:03,832 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,851 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] GET "/VAADIN/build/generated-flow-imports-2gV3GsjP.js", parameters={}
+2024-05-24 14:42:03,853 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,938 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/VAADIN/build/network-wQ5Qh4yD.js", parameters={}
+2024-05-24 14:42:03,938 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] GET "/VAADIN/build/fetch_stream-Sy7p2BSU.js", parameters={}
+2024-05-24 14:42:03,938 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/VAADIN/build/network_utils-xqCr1DS6.js", parameters={}
+2024-05-24 14:42:03,940 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,940 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:03,940 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,020 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] GET "/VAADIN/build/FlowClient-urjGN_YE.js", parameters={}
+2024-05-24 14:42:04,023 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,089 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/VAADIN/build/fetch_stream-Sy7p2BSU.js", parameters={}
+2024-05-24 14:42:04,089 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/VAADIN/build/network-wQ5Qh4yD.js", parameters={}
+2024-05-24 14:42:04,089 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] GET "/VAADIN/build/network_utils-xqCr1DS6.js", parameters={}
+2024-05-24 14:42:04,091 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,091 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,092 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,107 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:04,221 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] GET "/VAADIN/build/FlowClient-urjGN_YE.js", parameters={}
+2024-05-24 14:42:04,222 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,684 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:42:04,726 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:04,727 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] GET "/images/logo_normal.png", parameters={}
+2024-05-24 14:42:04,730 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] GET "/line-awesome/svg/sync-solid.svg", parameters={}
+2024-05-24 14:42:04,731 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:42:04,734 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:04,758 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:06,070 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=2", parameters={v-r:[uidl], v-uiId:[2]}
+2024-05-24 14:42:06,091 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:42:06,129 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=2", parameters={v-r:[uidl], v-uiId:[2]}
+2024-05-24 14:42:06,129 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] GET "/images/logo_normal.png", parameters={}
+2024-05-24 14:42:06,131 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:06,131 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:42:06,132 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] GET "/line-awesome/svg/sync-solid.svg", parameters={}
+2024-05-24 14:42:06,139 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 304 NOT_MODIFIED
+2024-05-24 14:42:06,685 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=2", parameters={v-r:[uidl], v-uiId:[2]}
+2024-05-24 14:42:06,688 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:42:32,530 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:32,566 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP POST http://192.168.10.9:8090/api/site/users/login
+2024-05-24 14:42:32,600 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:42:32,601 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [{"username":"daikaka","password":"Abc@12345"}] as "application/json"
+2024-05-24 14:42:33,144 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:42:33,146 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.authentication.ApiAuthenticationModel>]
+2024-05-24 14:42:33,178 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/users/sign-in-organization/6644682cdf546275e906d0d5
+2024-05-24 14:42:33,184 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:42:33,184 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:42:33,236 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:42:33,236 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<com.ngn.api.sign_in_org.ApiSignInOrgModel>]
+2024-05-24 14:42:33,533 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/docs/count?skip=0&limit=1000000&fromDate=0&toDate=0&organizationId=6644682cdf546275e906d0d5&active=true
+2024-05-24 14:42:33,535 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:42:33,535 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:42:33,563 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:42:33,563 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<java.lang.Object>]
+2024-05-24 14:42:33,609 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:42:33,743 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:33,745 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:42:33,763 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:33,768 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:42:50,031 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:42:50,076 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:43:11,902 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:43:11,912 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:43:11,914 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:43:11,914 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:43:11,937 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:43:11,937 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:43:11,960 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/organizations?skip=0&limit=10000&parentId=6644682cdf546275e906d0d5
+2024-05-24 14:43:11,969 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:43:11,969 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:43:12,000 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:43:12,001 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiOrganizationModel>>]
+2024-05-24 14:43:12,004 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:43:12,005 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:43:12,005 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:43:12,018 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:43:12,018 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:43:12,037 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/tasks/list-tasks-owner?skip=0&limit=10&fromDate=1703403791957&toDate=1716536591957&ownerOrganizationId=6644682cdf546275e906d0d5
+2024-05-24 14:43:12,052 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:43:12,052 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:43:12,144 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:43:12,145 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.tasks.ApiOutputTaskModel>>]
+2024-05-24 14:43:12,246 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:43:12,247 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Accept=[application/json, application/*+json]
+2024-05-24 14:43:12,248 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Writing [] as "application/json"
+2024-05-24 14:43:12,270 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Response 200 OK
+2024-05-24 14:43:12,271 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-7] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:43:12,359 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-7] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:43:12,362 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-7] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:43:12,364 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-7] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:43:12,367 WARN c.v.f.d.r.ComponentDataGenerator [http-nio-8081-exec-7] The 'createComponent' method returned a component 'com.vaadin.flow.component.html.Span' which already has a parent. It means that most likely your component renderer 'com.vaadin.flow.data.renderer.ComponentRenderer' class is implemented incorrectly
+2024-05-24 14:43:12,393 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:43:12,611 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:43:12,615 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:45:48,345 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:48,366 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:45:48,369 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:45:48,369 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:45:48,393 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:45:48,394 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:45:48,407 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/organizations?skip=0&limit=10000&parentId=6644682cdf546275e906d0d5
+2024-05-24 14:45:48,412 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:45:48,412 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:45:48,431 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:45:48,431 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.organization.ApiOrganizationModel>>]
+2024-05-24 14:45:48,433 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/tasks/priority
+2024-05-24 14:45:48,434 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:45:48,435 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:45:48,447 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 200 OK
+2024-05-24 14:45:48,448 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.utils.ApiKeyValueModel>>]
+2024-05-24 14:45:48,458 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/tasks/assignee?skip=0&limit=10&fromDate=1703403948405&toDate=1716536748405&ownerOrganizationId=6644682cdf546275e906d0d5&assigneeOrganizationId=6644682cdf546275e906d0d5
+2024-05-24 14:45:48,464 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:45:48,464 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:45:48,484 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 400 BAD_REQUEST
+2024-05-24 14:45:48,493 ERROR c.n.s.CoreExchangeService [http-nio-8081-exec-9] {"status":400,"message":"taskId [assignee] không hợp lệ"}
+2024-05-24 14:45:48,494 DEBUG o.s.w.c.HttpMessageConverterExtractor [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.tasks.ApiOutputTaskModel>>]
+2024-05-24 14:45:48,495 ERROR c.n.t.t.f.ListTasksAssigneeForm [http-nio-8081-exec-9] Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.ngn.api.result.ApiResultResponse.getTotal()" is null
+2024-05-24 14:45:48,500 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] HTTP GET http://192.168.10.9:8090/api/site/tasks/assignee?skip=0&limit=10&fromDate=1703403948405&toDate=1716536748405&ownerOrganizationId=6644682cdf546275e906d0d5&assigneeOrganizationId=6644682cdf546275e906d0d5
+2024-05-24 14:45:48,505 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Accept=[application/json, application/*+json]
+2024-05-24 14:45:48,506 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Writing [] as "application/json"
+2024-05-24 14:45:48,522 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-9] Response 400 BAD_REQUEST
+2024-05-24 14:45:48,524 ERROR c.n.s.CoreExchangeService [http-nio-8081-exec-9] {"status":400,"message":"taskId [assignee] không hợp lệ"}
+2024-05-24 14:45:48,524 DEBUG o.s.w.c.HttpMessageConverterExtractor [http-nio-8081-exec-9] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.tasks.ApiOutputTaskModel>>]
+2024-05-24 14:45:48,525 ERROR c.n.t.t.f.ListTasksAssigneeForm [http-nio-8081-exec-9] Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.ngn.api.result.ApiResultResponse.getTotal()" is null
+2024-05-24 14:45:48,544 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:45:48,644 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:48,646 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:45:57,915 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:57,917 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 14:45:58,654 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:58,656 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:45:58,731 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:58,733 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 14:45:59,208 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:59,209 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:45:59,317 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:59,322 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:45:59,327 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:45:59,330 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:46:00,394 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:00,396 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:46:00,961 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:00,963 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:46:00,968 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:00,970 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 14:46:02,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:02,050 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] HTTP GET http://192.168.10.9:8090/api/site/tasks/assignee?skip=0&limit=10&fromDate=1703403948405&toDate=1716536748405&ownerOrganizationId=6644682cdf546275e906d0d5&assigneeOrganizationId=6644682cdf546275e906d0d5
+2024-05-24 14:46:02,054 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Accept=[application/json, application/*+json]
+2024-05-24 14:46:02,054 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Writing [] as "application/json"
+2024-05-24 14:46:02,072 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-6] Response 400 BAD_REQUEST
+2024-05-24 14:46:02,073 ERROR c.n.s.CoreExchangeService [http-nio-8081-exec-6] {"status":400,"message":"taskId [assignee] không hợp lệ"}
+2024-05-24 14:46:02,073 DEBUG o.s.w.c.HttpMessageConverterExtractor [http-nio-8081-exec-6] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.tasks.ApiOutputTaskModel>>]
+2024-05-24 14:46:02,074 ERROR c.n.t.t.f.ListTasksAssigneeForm [http-nio-8081-exec-6] Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.ngn.api.result.ApiResultResponse.getTotal()" is null
+2024-05-24 14:46:02,075 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 14:46:02,683 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:02,685 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 14:46:03,227 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:03,229 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] HTTP GET http://192.168.10.9:8090/api/site/tasks/assignee?skip=0&limit=10&fromDate=1703403948405&toDate=1716536748405&ownerOrganizationId=6644682cdf546275e906d0d5&assigneeOrganizationId=6644682cdf546275e906d0d5
+2024-05-24 14:46:03,233 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Accept=[application/json, application/*+json]
+2024-05-24 14:46:03,234 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Writing [] as "application/json"
+2024-05-24 14:46:03,251 DEBUG o.s.c.l.CompositeLog [http-nio-8081-exec-3] Response 400 BAD_REQUEST
+2024-05-24 14:46:03,253 ERROR c.n.s.CoreExchangeService [http-nio-8081-exec-3] {"status":400,"message":"taskId [assignee] không hợp lệ"}
+2024-05-24 14:46:03,253 DEBUG o.s.w.c.HttpMessageConverterExtractor [http-nio-8081-exec-3] Reading to [com.ngn.api.result.ApiResultResponse<java.util.List<com.ngn.api.tasks.ApiOutputTaskModel>>]
+2024-05-24 14:46:03,253 ERROR c.n.t.t.f.ListTasksAssigneeForm [http-nio-8081-exec-3] Cannot invoke "java.lang.Integer.intValue()" because the return value of "com.ngn.api.result.ApiResultResponse.getTotal()" is null
+2024-05-24 14:46:03,255 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 14:46:05,377 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:05,379 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 14:46:05,895 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:05,896 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 14:46:05,989 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 14:46:05,991 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 14:47:04,105 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:47:04,107 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 14:52:04,113 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:52:04,115 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 14:57:04,124 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 14:57:04,126 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 15:02:04,145 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:02:04,148 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 15:07:04,157 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:07:04,159 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 15:12:04,177 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:12:04,180 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 15:17:04,191 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:17:04,193 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 15:22:04,198 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:22:04,200 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 15:27:04,215 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:27:04,218 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 15:32:04,233 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:32:04,234 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 15:37:04,254 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:37:04,257 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 15:42:04,265 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:42:04,266 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 15:47:04,283 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:47:04,284 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 15:52:04,306 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:52:04,308 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 15:57:04,328 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 15:57:04,329 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 16:02:04,350 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:02:04,353 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 16:06:02,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=uidl&v-uiId=1", parameters={v-r:[uidl], v-uiId:[1]}
+2024-05-24 16:06:02,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 16:07:05,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:07:05,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 16:12:06,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:12:06,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 16:17:07,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:17:07,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 16:22:08,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:22:08,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 16:27:09,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:27:09,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 16:32:10,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:32:10,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 16:37:11,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:37:11,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 16:42:12,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:42:12,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 16:47:13,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:47:13,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 16:52:14,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:52:14,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 16:57:15,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 16:57:15,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 17:02:16,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:02:16,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 17:07:17,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:07:17,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 17:12:18,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:12:18,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 17:17:19,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:17:19,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 17:22:20,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:22:20,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 17:27:21,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:27:21,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 17:32:22,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:32:22,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 17:37:23,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:37:23,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 17:42:24,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:42:24,064 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 17:47:25,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:47:25,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 17:52:26,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:52:26,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 17:57:27,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 17:57:27,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 18:02:28,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:02:28,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 18:07:29,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:07:29,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 18:12:30,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:12:30,064 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 18:17:31,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:17:31,064 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 18:22:32,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:22:32,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 18:27:33,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:27:33,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 18:32:34,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:32:34,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 18:37:35,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:37:35,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 18:42:36,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:42:36,065 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 18:47:37,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:47:37,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 18:52:38,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:52:38,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 18:57:39,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 18:57:39,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 19:02:40,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:02:40,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 19:07:41,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:07:41,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 19:12:42,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:12:42,049 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 19:17:43,064 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:17:43,068 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 19:22:44,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:22:44,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 19:27:45,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:27:45,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 19:32:46,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:32:46,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 19:37:47,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:37:47,064 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 19:42:48,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:42:48,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 19:47:49,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:47:49,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 19:52:50,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:52:50,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 19:57:51,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 19:57:51,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 20:02:52,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:02:52,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 20:07:53,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:07:53,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 20:12:54,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:12:54,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 20:17:55,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:17:55,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 20:22:56,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:22:56,065 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 20:27:57,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:27:57,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 20:32:58,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:32:58,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 20:37:59,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:37:59,050 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 20:43:00,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:43:00,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 20:48:01,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:48:01,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 20:53:02,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:53:02,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 20:58:03,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 20:58:03,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 21:03:04,061 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:03:04,063 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 21:08:05,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:08:05,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 21:13:06,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:13:06,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 21:18:07,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:18:07,058 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 21:23:08,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:23:08,059 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 21:28:09,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:28:09,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 21:33:10,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:33:10,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 21:38:11,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:38:11,055 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 21:43:12,047 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:43:12,048 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 21:48:13,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:48:13,062 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 21:53:14,058 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:53:14,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 21:58:15,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 21:58:15,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 22:03:16,050 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:03:16,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 22:08:17,063 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:08:17,065 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 22:13:18,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:13:18,052 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 22:18:19,060 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:18:19,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 22:23:20,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:23:20,064 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 22:28:21,064 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:28:21,066 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 22:33:22,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:33:22,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 22:38:23,063 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:38:23,066 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 22:43:24,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:43:24,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK
+2024-05-24 22:48:25,057 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:48:25,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 22:53:26,056 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:53:26,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 22:58:27,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-5] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 22:58:27,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-5] Completed 200 OK
+2024-05-24 23:03:28,048 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:03:28,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 23:08:29,062 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:08:29,063 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 23:13:30,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-10] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:13:30,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-10] Completed 200 OK
+2024-05-24 23:18:31,051 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:18:31,053 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 23:23:32,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-4] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:23:32,060 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-4] Completed 200 OK
+2024-05-24 23:28:33,063 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-7] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:28:33,066 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-7] Completed 200 OK
+2024-05-24 23:33:34,049 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-3] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:33:34,051 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-3] Completed 200 OK
+2024-05-24 23:38:35,054 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-6] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:38:35,057 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-6] Completed 200 OK
+2024-05-24 23:43:36,059 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-9] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:43:36,061 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-9] Completed 200 OK
+2024-05-24 23:48:37,052 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-2] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:48:37,054 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-2] Completed 200 OK
+2024-05-24 23:53:38,053 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-1] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:53:38,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-1] Completed 200 OK
+2024-05-24 23:58:39,055 DEBUG o.s.c.l.LogFormatUtils [http-nio-8081-exec-8] POST "/?v-r=heartbeat&v-uiId=1", parameters={v-r:[heartbeat], v-uiId:[1]}
+2024-05-24 23:58:39,056 DEBUG o.s.w.s.FrameworkServlet [http-nio-8081-exec-8] Completed 200 OK

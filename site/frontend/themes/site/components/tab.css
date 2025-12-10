@@ -1,0 +1,7 @@
+.tab_setting vaadin-tab{
+	width: 50%;
+}
+
+.tab_setting vaadin-tab:first-child{
+	border-right: 1px solid #d790902e;
+}

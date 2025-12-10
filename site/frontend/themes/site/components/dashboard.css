@@ -1,0 +1,61 @@
+.dashboard--boxshadow{
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	padding: 10px;
+}
+
+.bslayout--padding{
+	padding-left: 0;
+	padding-right: 0;
+	
+}
+
+
+.detail-filter_background{
+	background-color: rgb(206 236 255 / 18%);
+}
+
+.count-task-h1{
+	color: black;
+    font-size: 40px;
+    margin-top: -21px;
+}
+
+.layout-count-task{
+	margin: 10px 0;
+}
+
+/* animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.chart-hover-effect:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15) !important;
+    transition: all 0.3s ease;
+}
+
+.summary-button {
+    transition: all 0.3s ease;
+}
+.summary-button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.chart-animate {
+    animation: fadeInUp 0.8s ease-out forwards;
+    opacity: 0;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

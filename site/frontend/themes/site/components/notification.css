@@ -1,0 +1,11 @@
+vaadin-notification-card::part(overlay){
+	margin: 0;
+	width: 100%;
+	z-index: 1000;
+}
+vaadin-notification-card::part(content){
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	z-index: 1000;
+}

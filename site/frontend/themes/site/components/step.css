@@ -1,0 +1,54 @@
+.step-indicator {
+	background-color: #ffffff;
+    color: #0e215c;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    position: relative;
+    border: 1px solid rgb(224 224 224);
+    padding: 6px;
+    display: flex;
+    height: 5px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+/* Định dạng đoạn thẳng nối giữa các bước */
+.step-indicator:before {
+    content: "";
+    width: 264px;
+    position: absolute;
+    background-color: #e0e0e0;
+    height: 2px;
+    left: 23px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Ẩn before cho phần tử cuối cùng */
+.step-indicator:last-child::before {
+    display: none;
+}
+
+.step-indicator.last-step::before {
+    display: none;
+}
+
+.step-indicator.active{
+	background-color: #0db02b;
+    color: #f0ffff;
+}
+
+.step-indicator.active:before {
+    background: linear-gradient(to right, #0db02b 50%, #e0e0e0 50%);
+}
+
+.step-indicator.done:before{
+	background: #0db02b;
+	color: #f0ffff;
+}
+
+.active-step {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
